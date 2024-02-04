@@ -1,0 +1,30 @@
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/bin/Debug/net7.0/2
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/bin/Debug/net7.0/2.deps.json
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/bin/Debug/net7.0/2.runtimeconfig.json
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/bin/Debug/net7.0/2.dll
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/bin/Debug/net7.0/2.pdb
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/obj/Debug/net7.0/2.csproj.AssemblyReference.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/obj/Debug/net7.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/obj/Debug/net7.0/2.AssemblyInfoInputs.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/obj/Debug/net7.0/2.AssemblyInfo.cs
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/obj/Debug/net7.0/2.csproj.CoreCompileInputs.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/obj/Debug/net7.0/2.dll
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/obj/Debug/net7.0/refint/2.dll
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/obj/Debug/net7.0/2.pdb
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/obj/Debug/net7.0/2.genruntimeconfig.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/2/obj/Debug/net7.0/ref/2.dll
+/home/max/C#/Sinitsyn_if_5/first/bin/Debug/net7.0/2
+/home/max/C#/Sinitsyn_if_5/first/bin/Debug/net7.0/2.deps.json
+/home/max/C#/Sinitsyn_if_5/first/bin/Debug/net7.0/2.runtimeconfig.json
+/home/max/C#/Sinitsyn_if_5/first/bin/Debug/net7.0/2.dll
+/home/max/C#/Sinitsyn_if_5/first/bin/Debug/net7.0/2.pdb
+/home/max/C#/Sinitsyn_if_5/first/obj/Debug/net7.0/2.csproj.AssemblyReference.cache
+/home/max/C#/Sinitsyn_if_5/first/obj/Debug/net7.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/Sinitsyn_if_5/first/obj/Debug/net7.0/2.AssemblyInfoInputs.cache
+/home/max/C#/Sinitsyn_if_5/first/obj/Debug/net7.0/2.AssemblyInfo.cs
+/home/max/C#/Sinitsyn_if_5/first/obj/Debug/net7.0/2.csproj.CoreCompileInputs.cache
+/home/max/C#/Sinitsyn_if_5/first/obj/Debug/net7.0/2.dll
+/home/max/C#/Sinitsyn_if_5/first/obj/Debug/net7.0/refint/2.dll
+/home/max/C#/Sinitsyn_if_5/first/obj/Debug/net7.0/2.pdb
+/home/max/C#/Sinitsyn_if_5/first/obj/Debug/net7.0/2.genruntimeconfig.cache
+/home/max/C#/Sinitsyn_if_5/first/obj/Debug/net7.0/ref/2.dll

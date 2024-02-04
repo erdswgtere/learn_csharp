@@ -1,0 +1,14 @@
+C:\C#\while_prog_6_22_Sinitsyn\bin\Debug\net7.0\while_prog_6_22_Sinitsyn.exe
+C:\C#\while_prog_6_22_Sinitsyn\bin\Debug\net7.0\while_prog_6_22_Sinitsyn.deps.json
+C:\C#\while_prog_6_22_Sinitsyn\bin\Debug\net7.0\while_prog_6_22_Sinitsyn.runtimeconfig.json
+C:\C#\while_prog_6_22_Sinitsyn\bin\Debug\net7.0\while_prog_6_22_Sinitsyn.dll
+C:\C#\while_prog_6_22_Sinitsyn\bin\Debug\net7.0\while_prog_6_22_Sinitsyn.pdb
+C:\C#\while_prog_6_22_Sinitsyn\obj\Debug\net7.0\while_prog_6_22_Sinitsyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\while_prog_6_22_Sinitsyn\obj\Debug\net7.0\while_prog_6_22_Sinitsyn.AssemblyInfoInputs.cache
+C:\C#\while_prog_6_22_Sinitsyn\obj\Debug\net7.0\while_prog_6_22_Sinitsyn.AssemblyInfo.cs
+C:\C#\while_prog_6_22_Sinitsyn\obj\Debug\net7.0\while_prog_6_22_Sinitsyn.csproj.CoreCompileInputs.cache
+C:\C#\while_prog_6_22_Sinitsyn\obj\Debug\net7.0\while_prog_6_22_Sinitsyn.dll
+C:\C#\while_prog_6_22_Sinitsyn\obj\Debug\net7.0\refint\while_prog_6_22_Sinitsyn.dll
+C:\C#\while_prog_6_22_Sinitsyn\obj\Debug\net7.0\while_prog_6_22_Sinitsyn.pdb
+C:\C#\while_prog_6_22_Sinitsyn\obj\Debug\net7.0\while_prog_6_22_Sinitsyn.genruntimeconfig.cache
+C:\C#\while_prog_6_22_Sinitsyn\obj\Debug\net7.0\ref\while_prog_6_22_Sinitsyn.dll

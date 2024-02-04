@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "12_150a_ar_func_Sinitsyn/1.0.0": {
+        "runtime": {
+          "12_150a_ar_func_Sinitsyn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12_150a_ar_func_Sinitsyn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

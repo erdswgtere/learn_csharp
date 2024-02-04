@@ -1,0 +1,14 @@
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/bin/Debug/net7.0/for_8_4g_Opanasenko_prog
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/bin/Debug/net7.0/for_8_4g_Opanasenko_prog.deps.json
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/bin/Debug/net7.0/for_8_4g_Opanasenko_prog.runtimeconfig.json
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/bin/Debug/net7.0/for_8_4g_Opanasenko_prog.dll
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/bin/Debug/net7.0/for_8_4g_Opanasenko_prog.pdb
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/obj/Debug/net7.0/for_8_4g_Opanasenko_prog.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/obj/Debug/net7.0/for_8_4g_Opanasenko_prog.AssemblyInfoInputs.cache
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/obj/Debug/net7.0/for_8_4g_Opanasenko_prog.AssemblyInfo.cs
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/obj/Debug/net7.0/for_8_4g_Opanasenko_prog.csproj.CoreCompileInputs.cache
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/obj/Debug/net7.0/for_8_4g_Opanasenko_prog.dll
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/obj/Debug/net7.0/refint/for_8_4g_Opanasenko_prog.dll
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/obj/Debug/net7.0/for_8_4g_Opanasenko_prog.pdb
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/obj/Debug/net7.0/for_8_4g_Opanasenko_prog.genruntimeconfig.cache
+/home/max/C#/prog/for_Opanasenko_8_and_8_4g_prog/for_8_4g_Opanasenko_prog/obj/Debug/net7.0/ref/for_8_4g_Opanasenko_prog.dll

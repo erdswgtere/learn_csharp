@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VtALDu0LfnV2D30k28ktcKzgH9UZtw81GHV+Gfc1KJexoX/EpdSVxnVTSMfoFfLdNmqBEa1X0bEKouXhD7lhfQ==",
+  "success": true,
+  "projectFilePath": "/home/max/Рабочий стол/C#/mypro/mypro.csproj",
+  "expectedPackageFiles": [
+    "/home/max/.nuget/packages/decimalmath.decimalex/1.0.2/decimalmath.decimalex.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

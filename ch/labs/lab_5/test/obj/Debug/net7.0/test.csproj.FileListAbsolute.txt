@@ -1,0 +1,14 @@
+/home/max/C#/ch/labs/lab_5/test/bin/Debug/net7.0/test
+/home/max/C#/ch/labs/lab_5/test/bin/Debug/net7.0/test.deps.json
+/home/max/C#/ch/labs/lab_5/test/bin/Debug/net7.0/test.runtimeconfig.json
+/home/max/C#/ch/labs/lab_5/test/bin/Debug/net7.0/test.dll
+/home/max/C#/ch/labs/lab_5/test/bin/Debug/net7.0/test.pdb
+/home/max/C#/ch/labs/lab_5/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/ch/labs/lab_5/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/home/max/C#/ch/labs/lab_5/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/home/max/C#/ch/labs/lab_5/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/home/max/C#/ch/labs/lab_5/test/obj/Debug/net7.0/test.dll
+/home/max/C#/ch/labs/lab_5/test/obj/Debug/net7.0/refint/test.dll
+/home/max/C#/ch/labs/lab_5/test/obj/Debug/net7.0/test.pdb
+/home/max/C#/ch/labs/lab_5/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/home/max/C#/ch/labs/lab_5/test/obj/Debug/net7.0/ref/test.dll

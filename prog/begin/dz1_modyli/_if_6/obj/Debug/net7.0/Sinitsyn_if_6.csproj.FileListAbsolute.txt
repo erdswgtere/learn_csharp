@@ -1,0 +1,15 @@
+/home/max/C#/Sinitsyn_if_6/bin/Debug/net7.0/Sinitsyn_if_6
+/home/max/C#/Sinitsyn_if_6/bin/Debug/net7.0/Sinitsyn_if_6.deps.json
+/home/max/C#/Sinitsyn_if_6/bin/Debug/net7.0/Sinitsyn_if_6.runtimeconfig.json
+/home/max/C#/Sinitsyn_if_6/bin/Debug/net7.0/Sinitsyn_if_6.dll
+/home/max/C#/Sinitsyn_if_6/bin/Debug/net7.0/Sinitsyn_if_6.pdb
+/home/max/C#/Sinitsyn_if_6/obj/Debug/net7.0/Sinitsyn_if_6.csproj.AssemblyReference.cache
+/home/max/C#/Sinitsyn_if_6/obj/Debug/net7.0/Sinitsyn_if_6.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/Sinitsyn_if_6/obj/Debug/net7.0/Sinitsyn_if_6.AssemblyInfoInputs.cache
+/home/max/C#/Sinitsyn_if_6/obj/Debug/net7.0/Sinitsyn_if_6.AssemblyInfo.cs
+/home/max/C#/Sinitsyn_if_6/obj/Debug/net7.0/Sinitsyn_if_6.csproj.CoreCompileInputs.cache
+/home/max/C#/Sinitsyn_if_6/obj/Debug/net7.0/Sinitsyn_if_6.dll
+/home/max/C#/Sinitsyn_if_6/obj/Debug/net7.0/refint/Sinitsyn_if_6.dll
+/home/max/C#/Sinitsyn_if_6/obj/Debug/net7.0/Sinitsyn_if_6.pdb
+/home/max/C#/Sinitsyn_if_6/obj/Debug/net7.0/Sinitsyn_if_6.genruntimeconfig.cache
+/home/max/C#/Sinitsyn_if_6/obj/Debug/net7.0/ref/Sinitsyn_if_6.dll

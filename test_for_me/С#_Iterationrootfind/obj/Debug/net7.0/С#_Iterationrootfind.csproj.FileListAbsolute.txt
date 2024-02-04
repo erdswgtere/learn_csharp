@@ -1,0 +1,14 @@
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\bin\Debug\net7.0\С#_Iterationrootfind.exe
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\bin\Debug\net7.0\С#_Iterationrootfind.deps.json
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\bin\Debug\net7.0\С#_Iterationrootfind.runtimeconfig.json
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\bin\Debug\net7.0\С#_Iterationrootfind.dll
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\bin\Debug\net7.0\С#_Iterationrootfind.pdb
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\obj\Debug\net7.0\С#_Iterationrootfind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\obj\Debug\net7.0\С#_Iterationrootfind.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\obj\Debug\net7.0\С#_Iterationrootfind.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\obj\Debug\net7.0\С#_Iterationrootfind.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\obj\Debug\net7.0\С#_Iterationrootfind.dll
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\obj\Debug\net7.0\refint\С#_Iterationrootfind.dll
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\obj\Debug\net7.0\С#_Iterationrootfind.pdb
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\obj\Debug\net7.0\С#_Iterationrootfind.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\С#_Iterationrootfind\obj\Debug\net7.0\ref\С#_Iterationrootfind.dll

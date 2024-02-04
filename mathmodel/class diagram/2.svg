@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="31cm" height="29cm" viewBox="601 49 613 569" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="827" y="50" width="210.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="827" y="50" width="210.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="932.1" y="69">Class Vehicle</text>
+    <rect style="fill: #ffffff" x="827" y="78" width="210.2" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="827" y="78" width="210.2" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="92">-Cost: double</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="108">-Speed: int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="124">-Year_of_construction: int</text>
+    <rect style="fill: #ffffff" x="827" y="130" width="210.2" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="827" y="130" width="210.2" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="144">+Vehicle()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="160">+Increse_speed()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="176">+Display()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="602" y="361.751" width="166" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="602" y="361.751" width="166" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="685" y="380.751">Class Automobile</text>
+    <rect style="fill: #ffffff" x="602" y="389.751" width="166" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="602" y="389.751" width="166" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605" y="403.751">-Kuzov_type: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605" y="419.751">-mark_auto: string</text>
+    <rect style="fill: #ffffff" x="602" y="425.751" width="166" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="602" y="425.751" width="166" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605" y="439.751">+Automobile()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="605" y="455.751">+Display()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="609" y="532.026" width="152.95" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="609" y="532.026" width="152.95" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="685.475" y="551.026">Class light_auto</text>
+    <rect style="fill: #ffffff" x="609" y="560.026" width="152.95" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="609" y="560.026" width="152.95" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="612" y="574.026">-power: int</text>
+    <rect style="fill: #ffffff" x="609" y="580.026" width="152.95" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="609" y="580.026" width="152.95" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="612" y="594.026">+light_auto()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="612" y="610.026">+Display()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1095" y="356.841" width="117.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1095" y="356.841" width="117.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1153.9" y="375.841">Class Truck</text>
+    <rect style="fill: #ffffff" x="1095" y="384.841" width="117.8" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1095" y="384.841" width="117.8" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1098" y="398.841">-Capacity: int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1098" y="414.841">-mark: string</text>
+    <rect style="fill: #ffffff" x="1095" y="420.841" width="117.8" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1095" y="420.841" width="117.8" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1098" y="434.841">+Truck()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1098" y="450.841">+Display()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="932.1,200.236 932.1,279.372 685,279.372 685,360.744 "/>
+    <polygon style="fill: #ffffff" points="940.1,200.236 932.1,184.236 924.1,200.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="940.1,200.236 932.1,184.236 924.1,200.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1153.9,338.605 1153.9,280.466 932.682,280.466 932.682,202.227 "/>
+    <polygon style="fill: #ffffff" points="1145.9,338.605 1153.9,354.605 1161.9,338.605 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1145.9,338.605 1153.9,354.605 1161.9,338.605 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="685,480.993 685,504.889 685.475,504.889 685.475,531.021 "/>
+    <polygon style="fill: #ffffff" points="693,480.993 685,464.993 677,480.993 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="693,480.993 685,464.993 677,480.993 "/>
+  </g>
+</svg>

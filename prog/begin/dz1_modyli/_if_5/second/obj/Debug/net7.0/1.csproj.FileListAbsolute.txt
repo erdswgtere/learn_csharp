@@ -1,0 +1,45 @@
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/bin/Debug/net7.0/1
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/bin/Debug/net7.0/1.deps.json
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/bin/Debug/net7.0/1.runtimeconfig.json
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/bin/Debug/net7.0/1.dll
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/bin/Debug/net7.0/1.pdb
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/obj/Debug/net7.0/1.csproj.AssemblyReference.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/obj/Debug/net7.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/obj/Debug/net7.0/1.AssemblyInfoInputs.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/obj/Debug/net7.0/1.AssemblyInfo.cs
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/obj/Debug/net7.0/1.csproj.CoreCompileInputs.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/obj/Debug/net7.0/1.dll
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/obj/Debug/net7.0/refint/1.dll
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/obj/Debug/net7.0/1.pdb
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/obj/Debug/net7.0/1.genruntimeconfig.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/1/obj/Debug/net7.0/ref/1.dll
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/bin/Debug/net7.0/1
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/bin/Debug/net7.0/1.deps.json
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/bin/Debug/net7.0/1.runtimeconfig.json
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/bin/Debug/net7.0/1.dll
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/bin/Debug/net7.0/1.pdb
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/obj/Debug/net7.0/1.csproj.AssemblyReference.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/obj/Debug/net7.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/obj/Debug/net7.0/1.AssemblyInfoInputs.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/obj/Debug/net7.0/1.AssemblyInfo.cs
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/obj/Debug/net7.0/1.csproj.CoreCompileInputs.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/obj/Debug/net7.0/1.dll
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/obj/Debug/net7.0/refint/1.dll
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/obj/Debug/net7.0/1.pdb
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/obj/Debug/net7.0/1.genruntimeconfig.cache
+/home/max/Рабочий стол/C#/Синицын_Максим_if_5/нерациональный_способ/obj/Debug/net7.0/ref/1.dll
+/home/max/C#/Sinitsyn_if_5/second/bin/Debug/net7.0/1
+/home/max/C#/Sinitsyn_if_5/second/bin/Debug/net7.0/1.deps.json
+/home/max/C#/Sinitsyn_if_5/second/bin/Debug/net7.0/1.runtimeconfig.json
+/home/max/C#/Sinitsyn_if_5/second/bin/Debug/net7.0/1.dll
+/home/max/C#/Sinitsyn_if_5/second/bin/Debug/net7.0/1.pdb
+/home/max/C#/Sinitsyn_if_5/second/obj/Debug/net7.0/1.csproj.AssemblyReference.cache
+/home/max/C#/Sinitsyn_if_5/second/obj/Debug/net7.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/Sinitsyn_if_5/second/obj/Debug/net7.0/1.AssemblyInfoInputs.cache
+/home/max/C#/Sinitsyn_if_5/second/obj/Debug/net7.0/1.AssemblyInfo.cs
+/home/max/C#/Sinitsyn_if_5/second/obj/Debug/net7.0/1.csproj.CoreCompileInputs.cache
+/home/max/C#/Sinitsyn_if_5/second/obj/Debug/net7.0/1.dll
+/home/max/C#/Sinitsyn_if_5/second/obj/Debug/net7.0/refint/1.dll
+/home/max/C#/Sinitsyn_if_5/second/obj/Debug/net7.0/1.pdb
+/home/max/C#/Sinitsyn_if_5/second/obj/Debug/net7.0/1.genruntimeconfig.cache
+/home/max/C#/Sinitsyn_if_5/second/obj/Debug/net7.0/ref/1.dll

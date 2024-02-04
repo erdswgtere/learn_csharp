@@ -1,0 +1,28 @@
+/home/max/C#/ch/labs/root_ot/bin/Debug/net7.0/root_ot
+/home/max/C#/ch/labs/root_ot/bin/Debug/net7.0/root_ot.deps.json
+/home/max/C#/ch/labs/root_ot/bin/Debug/net7.0/root_ot.runtimeconfig.json
+/home/max/C#/ch/labs/root_ot/bin/Debug/net7.0/root_ot.dll
+/home/max/C#/ch/labs/root_ot/bin/Debug/net7.0/root_ot.pdb
+/home/max/C#/ch/labs/root_ot/obj/Debug/net7.0/root_ot.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/ch/labs/root_ot/obj/Debug/net7.0/root_ot.AssemblyInfoInputs.cache
+/home/max/C#/ch/labs/root_ot/obj/Debug/net7.0/root_ot.AssemblyInfo.cs
+/home/max/C#/ch/labs/root_ot/obj/Debug/net7.0/root_ot.csproj.CoreCompileInputs.cache
+/home/max/C#/ch/labs/root_ot/obj/Debug/net7.0/root_ot.dll
+/home/max/C#/ch/labs/root_ot/obj/Debug/net7.0/refint/root_ot.dll
+/home/max/C#/ch/labs/root_ot/obj/Debug/net7.0/root_ot.pdb
+/home/max/C#/ch/labs/root_ot/obj/Debug/net7.0/root_ot.genruntimeconfig.cache
+/home/max/C#/ch/labs/root_ot/obj/Debug/net7.0/ref/root_ot.dll
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/bin/Debug/net7.0/root_ot
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/bin/Debug/net7.0/root_ot.deps.json
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/bin/Debug/net7.0/root_ot.runtimeconfig.json
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/bin/Debug/net7.0/root_ot.dll
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/bin/Debug/net7.0/root_ot.pdb
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/obj/Debug/net7.0/root_ot.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/obj/Debug/net7.0/root_ot.AssemblyInfoInputs.cache
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/obj/Debug/net7.0/root_ot.AssemblyInfo.cs
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/obj/Debug/net7.0/root_ot.csproj.CoreCompileInputs.cache
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/obj/Debug/net7.0/root_ot.dll
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/obj/Debug/net7.0/refint/root_ot.dll
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/obj/Debug/net7.0/root_ot.pdb
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/obj/Debug/net7.0/root_ot.genruntimeconfig.cache
+/home/max/Desktop/zachet Ch/varianty c#/4/С#root_ot/obj/Debug/net7.0/ref/root_ot.dll

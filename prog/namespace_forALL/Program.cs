@@ -1,0 +1,11 @@
+﻿using MyNamespace.Matrices;
+using MyNamespace.Vectors;
+Console.Write("n = ");
+int n = Convert.ToInt32(Console.ReadLine());
+int[][] ar = new int[n][];
+int[] vec = new int[n];
+ArrMethodsMat.InputMas(ref ar, n);
+ArrMethodsMat.PrintMas(ref ar, n);
+Console.WriteLine();
+ArrMethodsVec.InputMas(ref vec, n);
+ArrMethodsVec.PrintMas(ref vec, n);

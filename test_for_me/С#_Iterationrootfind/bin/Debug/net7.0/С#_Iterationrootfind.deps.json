@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "С#_Iterationrootfind/1.0.0": {
+        "runtime": {
+          "С#_Iterationrootfind.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "С#_Iterationrootfind/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

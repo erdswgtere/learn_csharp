@@ -1,0 +1,28 @@
+/home/max/C#/ch/lab3_Polenom/C#_polenom/bin/Debug/net7.0/C#_polenom
+/home/max/C#/ch/lab3_Polenom/C#_polenom/bin/Debug/net7.0/C#_polenom.deps.json
+/home/max/C#/ch/lab3_Polenom/C#_polenom/bin/Debug/net7.0/C#_polenom.runtimeconfig.json
+/home/max/C#/ch/lab3_Polenom/C#_polenom/bin/Debug/net7.0/C#_polenom.dll
+/home/max/C#/ch/lab3_Polenom/C#_polenom/bin/Debug/net7.0/C#_polenom.pdb
+/home/max/C#/ch/lab3_Polenom/C#_polenom/obj/Debug/net7.0/C#_polenom.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/ch/lab3_Polenom/C#_polenom/obj/Debug/net7.0/C#_polenom.AssemblyInfoInputs.cache
+/home/max/C#/ch/lab3_Polenom/C#_polenom/obj/Debug/net7.0/C#_polenom.AssemblyInfo.cs
+/home/max/C#/ch/lab3_Polenom/C#_polenom/obj/Debug/net7.0/C#_polenom.csproj.CoreCompileInputs.cache
+/home/max/C#/ch/lab3_Polenom/C#_polenom/obj/Debug/net7.0/C#_polenom.dll
+/home/max/C#/ch/lab3_Polenom/C#_polenom/obj/Debug/net7.0/refint/C#_polenom.dll
+/home/max/C#/ch/lab3_Polenom/C#_polenom/obj/Debug/net7.0/C#_polenom.pdb
+/home/max/C#/ch/lab3_Polenom/C#_polenom/obj/Debug/net7.0/C#_polenom.genruntimeconfig.cache
+/home/max/C#/ch/lab3_Polenom/C#_polenom/obj/Debug/net7.0/ref/C#_polenom.dll
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/bin/Debug/net7.0/C#_polenom
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/bin/Debug/net7.0/C#_polenom.deps.json
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/bin/Debug/net7.0/C#_polenom.runtimeconfig.json
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/bin/Debug/net7.0/C#_polenom.dll
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/bin/Debug/net7.0/C#_polenom.pdb
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/obj/Debug/net7.0/C#_polenom.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/obj/Debug/net7.0/C#_polenom.AssemblyInfoInputs.cache
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/obj/Debug/net7.0/C#_polenom.AssemblyInfo.cs
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/obj/Debug/net7.0/C#_polenom.csproj.CoreCompileInputs.cache
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/obj/Debug/net7.0/C#_polenom.dll
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/obj/Debug/net7.0/refint/C#_polenom.dll
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/obj/Debug/net7.0/C#_polenom.pdb
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/obj/Debug/net7.0/C#_polenom.genruntimeconfig.cache
+/home/max/Desktop/zachet Ch/varianty c#/6/C#_polenom/obj/Debug/net7.0/ref/C#_polenom.dll

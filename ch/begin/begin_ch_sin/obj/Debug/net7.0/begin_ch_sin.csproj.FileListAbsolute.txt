@@ -1,0 +1,15 @@
+/home/max/C#/begin_ch_sin/obj/Debug/net7.0/begin_ch_sin.csproj.AssemblyReference.cache
+/home/max/C#/begin_ch_sin/obj/Debug/net7.0/begin_ch_sin.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/begin_ch_sin/obj/Debug/net7.0/begin_ch_sin.AssemblyInfoInputs.cache
+/home/max/C#/begin_ch_sin/obj/Debug/net7.0/begin_ch_sin.AssemblyInfo.cs
+/home/max/C#/begin_ch_sin/obj/Debug/net7.0/begin_ch_sin.csproj.CoreCompileInputs.cache
+/home/max/C#/begin_ch_sin/bin/Debug/net7.0/begin_ch_sin
+/home/max/C#/begin_ch_sin/bin/Debug/net7.0/begin_ch_sin.deps.json
+/home/max/C#/begin_ch_sin/bin/Debug/net7.0/begin_ch_sin.runtimeconfig.json
+/home/max/C#/begin_ch_sin/bin/Debug/net7.0/begin_ch_sin.dll
+/home/max/C#/begin_ch_sin/bin/Debug/net7.0/begin_ch_sin.pdb
+/home/max/C#/begin_ch_sin/obj/Debug/net7.0/begin_ch_sin.dll
+/home/max/C#/begin_ch_sin/obj/Debug/net7.0/refint/begin_ch_sin.dll
+/home/max/C#/begin_ch_sin/obj/Debug/net7.0/begin_ch_sin.pdb
+/home/max/C#/begin_ch_sin/obj/Debug/net7.0/begin_ch_sin.genruntimeconfig.cache
+/home/max/C#/begin_ch_sin/obj/Debug/net7.0/ref/begin_ch_sin.dll

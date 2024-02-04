@@ -1,0 +1,28 @@
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/bin/Debug/net7.0/С#_iterroot_find
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/bin/Debug/net7.0/С#_iterroot_find.deps.json
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/bin/Debug/net7.0/С#_iterroot_find.runtimeconfig.json
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/bin/Debug/net7.0/С#_iterroot_find.dll
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/bin/Debug/net7.0/С#_iterroot_find.pdb
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.AssemblyInfoInputs.cache
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.AssemblyInfo.cs
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.csproj.CoreCompileInputs.cache
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.dll
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/obj/Debug/net7.0/refint/С#_iterroot_find.dll
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.pdb
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.genruntimeconfig.cache
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/3/С#_iterroot_find/obj/Debug/net7.0/ref/С#_iterroot_find.dll
+/home/max/Desktop/С#_iterroot_find/bin/Debug/net7.0/С#_iterroot_find
+/home/max/Desktop/С#_iterroot_find/bin/Debug/net7.0/С#_iterroot_find.deps.json
+/home/max/Desktop/С#_iterroot_find/bin/Debug/net7.0/С#_iterroot_find.runtimeconfig.json
+/home/max/Desktop/С#_iterroot_find/bin/Debug/net7.0/С#_iterroot_find.dll
+/home/max/Desktop/С#_iterroot_find/bin/Debug/net7.0/С#_iterroot_find.pdb
+/home/max/Desktop/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Desktop/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.AssemblyInfoInputs.cache
+/home/max/Desktop/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.AssemblyInfo.cs
+/home/max/Desktop/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.csproj.CoreCompileInputs.cache
+/home/max/Desktop/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.dll
+/home/max/Desktop/С#_iterroot_find/obj/Debug/net7.0/refint/С#_iterroot_find.dll
+/home/max/Desktop/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.pdb
+/home/max/Desktop/С#_iterroot_find/obj/Debug/net7.0/С#_iterroot_find.genruntimeconfig.cache
+/home/max/Desktop/С#_iterroot_find/obj/Debug/net7.0/ref/С#_iterroot_find.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "begin_ch_exp/1.0.0": {
+        "runtime": {
+          "begin_ch_exp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "begin_ch_exp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

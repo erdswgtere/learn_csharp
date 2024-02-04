@@ -1,0 +1,14 @@
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/obj/Debug/net7.0/for_8_2b_Sinitsyn.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/obj/Debug/net7.0/for_8_2b_Sinitsyn.AssemblyInfoInputs.cache
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/obj/Debug/net7.0/for_8_2b_Sinitsyn.AssemblyInfo.cs
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/obj/Debug/net7.0/for_8_2b_Sinitsyn.csproj.CoreCompileInputs.cache
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/bin/Debug/net7.0/for_8_2b_Sinitsyn
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/bin/Debug/net7.0/for_8_2b_Sinitsyn.deps.json
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/bin/Debug/net7.0/for_8_2b_Sinitsyn.runtimeconfig.json
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/bin/Debug/net7.0/for_8_2b_Sinitsyn.dll
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/bin/Debug/net7.0/for_8_2b_Sinitsyn.pdb
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/obj/Debug/net7.0/for_8_2b_Sinitsyn.dll
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/obj/Debug/net7.0/refint/for_8_2b_Sinitsyn.dll
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/obj/Debug/net7.0/for_8_2b_Sinitsyn.pdb
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/obj/Debug/net7.0/for_8_2b_Sinitsyn.genruntimeconfig.cache
+/home/max/C#/prog/for_Sinitsyn_1_and_8_2b_prog/for_8_2b_Sinitsyn/obj/Debug/net7.0/ref/for_8_2b_Sinitsyn.dll

@@ -1,0 +1,14 @@
+C:\C#\while_prog_6_46_Opanasenko\bin\Debug\net7.0\while_prog_6_46_Opanasenko.exe
+C:\C#\while_prog_6_46_Opanasenko\bin\Debug\net7.0\while_prog_6_46_Opanasenko.deps.json
+C:\C#\while_prog_6_46_Opanasenko\bin\Debug\net7.0\while_prog_6_46_Opanasenko.runtimeconfig.json
+C:\C#\while_prog_6_46_Opanasenko\bin\Debug\net7.0\while_prog_6_46_Opanasenko.dll
+C:\C#\while_prog_6_46_Opanasenko\bin\Debug\net7.0\while_prog_6_46_Opanasenko.pdb
+C:\C#\while_prog_6_46_Opanasenko\obj\Debug\net7.0\while_prog_6_46_Opanasenko.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\while_prog_6_46_Opanasenko\obj\Debug\net7.0\while_prog_6_46_Opanasenko.AssemblyInfoInputs.cache
+C:\C#\while_prog_6_46_Opanasenko\obj\Debug\net7.0\while_prog_6_46_Opanasenko.AssemblyInfo.cs
+C:\C#\while_prog_6_46_Opanasenko\obj\Debug\net7.0\while_prog_6_46_Opanasenko.csproj.CoreCompileInputs.cache
+C:\C#\while_prog_6_46_Opanasenko\obj\Debug\net7.0\while_prog_6_46_Opanasenko.dll
+C:\C#\while_prog_6_46_Opanasenko\obj\Debug\net7.0\refint\while_prog_6_46_Opanasenko.dll
+C:\C#\while_prog_6_46_Opanasenko\obj\Debug\net7.0\while_prog_6_46_Opanasenko.pdb
+C:\C#\while_prog_6_46_Opanasenko\obj\Debug\net7.0\while_prog_6_46_Opanasenko.genruntimeconfig.cache
+C:\C#\while_prog_6_46_Opanasenko\obj\Debug\net7.0\ref\while_prog_6_46_Opanasenko.dll

@@ -1,0 +1,14 @@
+C:\C#\prog\labs\lab3_overload\Overload\bin\Debug\net8.0\Overload.exe
+C:\C#\prog\labs\lab3_overload\Overload\bin\Debug\net8.0\Overload.deps.json
+C:\C#\prog\labs\lab3_overload\Overload\bin\Debug\net8.0\Overload.runtimeconfig.json
+C:\C#\prog\labs\lab3_overload\Overload\bin\Debug\net8.0\Overload.dll
+C:\C#\prog\labs\lab3_overload\Overload\bin\Debug\net8.0\Overload.pdb
+C:\C#\prog\labs\lab3_overload\Overload\obj\Debug\net8.0\Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\prog\labs\lab3_overload\Overload\obj\Debug\net8.0\Overload.AssemblyInfoInputs.cache
+C:\C#\prog\labs\lab3_overload\Overload\obj\Debug\net8.0\Overload.AssemblyInfo.cs
+C:\C#\prog\labs\lab3_overload\Overload\obj\Debug\net8.0\Overload.csproj.CoreCompileInputs.cache
+C:\C#\prog\labs\lab3_overload\Overload\obj\Debug\net8.0\Overload.dll
+C:\C#\prog\labs\lab3_overload\Overload\obj\Debug\net8.0\refint\Overload.dll
+C:\C#\prog\labs\lab3_overload\Overload\obj\Debug\net8.0\Overload.pdb
+C:\C#\prog\labs\lab3_overload\Overload\obj\Debug\net8.0\Overload.genruntimeconfig.cache
+C:\C#\prog\labs\lab3_overload\Overload\obj\Debug\net8.0\ref\Overload.dll

@@ -1,0 +1,14 @@
+/home/max/C#/prog/rec_64_Sinitsyn_prog/bin/Debug/net7.0/rec_64_Sinitsyn_prog
+/home/max/C#/prog/rec_64_Sinitsyn_prog/bin/Debug/net7.0/rec_64_Sinitsyn_prog.deps.json
+/home/max/C#/prog/rec_64_Sinitsyn_prog/bin/Debug/net7.0/rec_64_Sinitsyn_prog.runtimeconfig.json
+/home/max/C#/prog/rec_64_Sinitsyn_prog/bin/Debug/net7.0/rec_64_Sinitsyn_prog.dll
+/home/max/C#/prog/rec_64_Sinitsyn_prog/bin/Debug/net7.0/rec_64_Sinitsyn_prog.pdb
+/home/max/C#/prog/rec_64_Sinitsyn_prog/obj/Debug/net7.0/rec_64_Sinitsyn_prog.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/prog/rec_64_Sinitsyn_prog/obj/Debug/net7.0/rec_64_Sinitsyn_prog.AssemblyInfoInputs.cache
+/home/max/C#/prog/rec_64_Sinitsyn_prog/obj/Debug/net7.0/rec_64_Sinitsyn_prog.AssemblyInfo.cs
+/home/max/C#/prog/rec_64_Sinitsyn_prog/obj/Debug/net7.0/rec_64_Sinitsyn_prog.csproj.CoreCompileInputs.cache
+/home/max/C#/prog/rec_64_Sinitsyn_prog/obj/Debug/net7.0/rec_64_Sinitsyn_prog.dll
+/home/max/C#/prog/rec_64_Sinitsyn_prog/obj/Debug/net7.0/refint/rec_64_Sinitsyn_prog.dll
+/home/max/C#/prog/rec_64_Sinitsyn_prog/obj/Debug/net7.0/rec_64_Sinitsyn_prog.pdb
+/home/max/C#/prog/rec_64_Sinitsyn_prog/obj/Debug/net7.0/rec_64_Sinitsyn_prog.genruntimeconfig.cache
+/home/max/C#/prog/rec_64_Sinitsyn_prog/obj/Debug/net7.0/ref/rec_64_Sinitsyn_prog.dll

@@ -1,0 +1,14 @@
+/home/max/C#/prog/for_test2/bin/Debug/net7.0/for_test2
+/home/max/C#/prog/for_test2/bin/Debug/net7.0/for_test2.deps.json
+/home/max/C#/prog/for_test2/bin/Debug/net7.0/for_test2.runtimeconfig.json
+/home/max/C#/prog/for_test2/bin/Debug/net7.0/for_test2.dll
+/home/max/C#/prog/for_test2/bin/Debug/net7.0/for_test2.pdb
+/home/max/C#/prog/for_test2/obj/Debug/net7.0/for_test2.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/prog/for_test2/obj/Debug/net7.0/for_test2.AssemblyInfoInputs.cache
+/home/max/C#/prog/for_test2/obj/Debug/net7.0/for_test2.AssemblyInfo.cs
+/home/max/C#/prog/for_test2/obj/Debug/net7.0/for_test2.csproj.CoreCompileInputs.cache
+/home/max/C#/prog/for_test2/obj/Debug/net7.0/for_test2.dll
+/home/max/C#/prog/for_test2/obj/Debug/net7.0/refint/for_test2.dll
+/home/max/C#/prog/for_test2/obj/Debug/net7.0/for_test2.pdb
+/home/max/C#/prog/for_test2/obj/Debug/net7.0/for_test2.genruntimeconfig.cache
+/home/max/C#/prog/for_test2/obj/Debug/net7.0/ref/for_test2.dll

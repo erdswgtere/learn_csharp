@@ -1,0 +1,14 @@
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/bin/Debug/net7.0/С#_Gauss
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/bin/Debug/net7.0/С#_Gauss.deps.json
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/bin/Debug/net7.0/С#_Gauss.runtimeconfig.json
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/bin/Debug/net7.0/С#_Gauss.dll
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/bin/Debug/net7.0/С#_Gauss.pdb
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/obj/Debug/net7.0/С#_Gauss.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/obj/Debug/net7.0/С#_Gauss.AssemblyInfoInputs.cache
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/obj/Debug/net7.0/С#_Gauss.AssemblyInfo.cs
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/obj/Debug/net7.0/С#_Gauss.csproj.CoreCompileInputs.cache
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/obj/Debug/net7.0/С#_Gauss.dll
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/obj/Debug/net7.0/refint/С#_Gauss.dll
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/obj/Debug/net7.0/С#_Gauss.pdb
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/obj/Debug/net7.0/С#_Gauss.genruntimeconfig.cache
+/home/max/Desktop/зачёт по ЧМ/Варианты по c#/5/С#_Gauss/obj/Debug/net7.0/ref/С#_Gauss.dll

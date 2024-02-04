@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "C#_polenom/1.0.0": {
+        "runtime": {
+          "C#_polenom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_polenom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

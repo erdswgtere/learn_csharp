@@ -1,0 +1,15 @@
+/home/max/C#/begin_ch_exp/bin/Debug/net7.0/begin_ch_exp
+/home/max/C#/begin_ch_exp/bin/Debug/net7.0/begin_ch_exp.deps.json
+/home/max/C#/begin_ch_exp/bin/Debug/net7.0/begin_ch_exp.runtimeconfig.json
+/home/max/C#/begin_ch_exp/bin/Debug/net7.0/begin_ch_exp.dll
+/home/max/C#/begin_ch_exp/bin/Debug/net7.0/begin_ch_exp.pdb
+/home/max/C#/begin_ch_exp/obj/Debug/net7.0/begin_ch_exp.csproj.AssemblyReference.cache
+/home/max/C#/begin_ch_exp/obj/Debug/net7.0/begin_ch_exp.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/begin_ch_exp/obj/Debug/net7.0/begin_ch_exp.AssemblyInfoInputs.cache
+/home/max/C#/begin_ch_exp/obj/Debug/net7.0/begin_ch_exp.AssemblyInfo.cs
+/home/max/C#/begin_ch_exp/obj/Debug/net7.0/begin_ch_exp.csproj.CoreCompileInputs.cache
+/home/max/C#/begin_ch_exp/obj/Debug/net7.0/begin_ch_exp.dll
+/home/max/C#/begin_ch_exp/obj/Debug/net7.0/refint/begin_ch_exp.dll
+/home/max/C#/begin_ch_exp/obj/Debug/net7.0/begin_ch_exp.pdb
+/home/max/C#/begin_ch_exp/obj/Debug/net7.0/begin_ch_exp.genruntimeconfig.cache
+/home/max/C#/begin_ch_exp/obj/Debug/net7.0/ref/begin_ch_exp.dll

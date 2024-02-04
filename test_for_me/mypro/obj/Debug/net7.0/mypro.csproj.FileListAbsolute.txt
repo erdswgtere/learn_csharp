@@ -1,0 +1,17 @@
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/mypro.csproj.AssemblyReference.cache
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/mypro.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/mypro.AssemblyInfoInputs.cache
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/mypro.AssemblyInfo.cs
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/mypro.csproj.CoreCompileInputs.cache
+/home/max/Рабочий стол/C#/mypro/bin/Debug/net7.0/mypro
+/home/max/Рабочий стол/C#/mypro/bin/Debug/net7.0/mypro.deps.json
+/home/max/Рабочий стол/C#/mypro/bin/Debug/net7.0/mypro.runtimeconfig.json
+/home/max/Рабочий стол/C#/mypro/bin/Debug/net7.0/mypro.dll
+/home/max/Рабочий стол/C#/mypro/bin/Debug/net7.0/mypro.pdb
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/mypro.dll
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/refint/mypro.dll
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/mypro.pdb
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/mypro.genruntimeconfig.cache
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/ref/mypro.dll
+/home/max/Рабочий стол/C#/mypro/bin/Debug/net7.0/DecimalEx.dll
+/home/max/Рабочий стол/C#/mypro/obj/Debug/net7.0/mypro.csproj.CopyComplete

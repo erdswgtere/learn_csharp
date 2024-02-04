@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "begin_CH_Sinitsyn_division_and_multiplication/1.0.0": {
+        "runtime": {
+          "begin_CH_Sinitsyn_division_and_multiplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "begin_CH_Sinitsyn_division_and_multiplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

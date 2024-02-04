@@ -1,0 +1,14 @@
+/home/max/C#/prog/while_xz/bin/Debug/net7.0/while_xz
+/home/max/C#/prog/while_xz/bin/Debug/net7.0/while_xz.deps.json
+/home/max/C#/prog/while_xz/bin/Debug/net7.0/while_xz.runtimeconfig.json
+/home/max/C#/prog/while_xz/bin/Debug/net7.0/while_xz.dll
+/home/max/C#/prog/while_xz/bin/Debug/net7.0/while_xz.pdb
+/home/max/C#/prog/while_xz/obj/Debug/net7.0/while_xz.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/prog/while_xz/obj/Debug/net7.0/while_xz.AssemblyInfoInputs.cache
+/home/max/C#/prog/while_xz/obj/Debug/net7.0/while_xz.AssemblyInfo.cs
+/home/max/C#/prog/while_xz/obj/Debug/net7.0/while_xz.csproj.CoreCompileInputs.cache
+/home/max/C#/prog/while_xz/obj/Debug/net7.0/while_xz.dll
+/home/max/C#/prog/while_xz/obj/Debug/net7.0/refint/while_xz.dll
+/home/max/C#/prog/while_xz/obj/Debug/net7.0/while_xz.pdb
+/home/max/C#/prog/while_xz/obj/Debug/net7.0/while_xz.genruntimeconfig.cache
+/home/max/C#/prog/while_xz/obj/Debug/net7.0/ref/while_xz.dll

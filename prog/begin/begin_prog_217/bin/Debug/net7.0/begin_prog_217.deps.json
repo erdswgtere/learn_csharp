@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "begin_prog_217/1.0.0": {
+        "runtime": {
+          "begin_prog_217.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "begin_prog_217/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

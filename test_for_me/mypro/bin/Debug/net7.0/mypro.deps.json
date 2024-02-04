@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "mypro/1.0.0": {
+        "dependencies": {
+          "DecimalMath.DecimalEx": "1.0.2"
+        },
+        "runtime": {
+          "mypro.dll": {}
+        }
+      },
+      "DecimalMath.DecimalEx/1.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/DecimalEx.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mypro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecimalMath.DecimalEx/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BCii/IxT7Tx7BPZ7MtrpqVlEii/iaHi4OOXpgaPi+zrphnkbe251KKI3S+pgnTzobfn0jS/SF7bgidqOMj1oGw==",
+      "path": "decimalmath.decimalex/1.0.2",
+      "hashPath": "decimalmath.decimalex.1.0.2.nupkg.sha512"
+    }
+  }
+}

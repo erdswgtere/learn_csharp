@@ -1,0 +1,14 @@
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/bin/Debug/net7.0/12_150a_ar_func_Sinitsyn
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/bin/Debug/net7.0/12_150a_ar_func_Sinitsyn.deps.json
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/bin/Debug/net7.0/12_150a_ar_func_Sinitsyn.runtimeconfig.json
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/bin/Debug/net7.0/12_150a_ar_func_Sinitsyn.dll
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/bin/Debug/net7.0/12_150a_ar_func_Sinitsyn.pdb
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/obj/Debug/net7.0/12_150a_ar_func_Sinitsyn.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/obj/Debug/net7.0/12_150a_ar_func_Sinitsyn.AssemblyInfoInputs.cache
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/obj/Debug/net7.0/12_150a_ar_func_Sinitsyn.AssemblyInfo.cs
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/obj/Debug/net7.0/12_150a_ar_func_Sinitsyn.csproj.CoreCompileInputs.cache
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/obj/Debug/net7.0/12_150a_ar_func_Sinitsyn.dll
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/obj/Debug/net7.0/refint/12_150a_ar_func_Sinitsyn.dll
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/obj/Debug/net7.0/12_150a_ar_func_Sinitsyn.pdb
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/obj/Debug/net7.0/12_150a_ar_func_Sinitsyn.genruntimeconfig.cache
+/home/max/C#/ch/12_150a_ar_func_Sinitsyn/obj/Debug/net7.0/ref/12_150a_ar_func_Sinitsyn.dll

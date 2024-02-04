@@ -1,0 +1,59 @@
+/home/max/Рабочий стол/C#/arcsin_ch_begin/bin/Debug/net7.0/arcsin
+/home/max/Рабочий стол/C#/arcsin_ch_begin/bin/Debug/net7.0/arcsin.deps.json
+/home/max/Рабочий стол/C#/arcsin_ch_begin/bin/Debug/net7.0/arcsin.runtimeconfig.json
+/home/max/Рабочий стол/C#/arcsin_ch_begin/bin/Debug/net7.0/arcsin.dll
+/home/max/Рабочий стол/C#/arcsin_ch_begin/bin/Debug/net7.0/arcsin.pdb
+/home/max/Рабочий стол/C#/arcsin_ch_begin/obj/Debug/net7.0/arcsin.csproj.AssemblyReference.cache
+/home/max/Рабочий стол/C#/arcsin_ch_begin/obj/Debug/net7.0/arcsin.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Рабочий стол/C#/arcsin_ch_begin/obj/Debug/net7.0/arcsin.AssemblyInfoInputs.cache
+/home/max/Рабочий стол/C#/arcsin_ch_begin/obj/Debug/net7.0/arcsin.AssemblyInfo.cs
+/home/max/Рабочий стол/C#/arcsin_ch_begin/obj/Debug/net7.0/arcsin.csproj.CoreCompileInputs.cache
+/home/max/Рабочий стол/C#/arcsin_ch_begin/obj/Debug/net7.0/arcsin.dll
+/home/max/Рабочий стол/C#/arcsin_ch_begin/obj/Debug/net7.0/refint/arcsin.dll
+/home/max/Рабочий стол/C#/arcsin_ch_begin/obj/Debug/net7.0/arcsin.pdb
+/home/max/Рабочий стол/C#/arcsin_ch_begin/obj/Debug/net7.0/arcsin.genruntimeconfig.cache
+/home/max/Рабочий стол/C#/arcsin_ch_begin/obj/Debug/net7.0/ref/arcsin.dll
+/home/max/Рабочий стол/C#/begin_arcsin_ch/bin/Debug/net7.0/arcsin
+/home/max/Рабочий стол/C#/begin_arcsin_ch/bin/Debug/net7.0/arcsin.deps.json
+/home/max/Рабочий стол/C#/begin_arcsin_ch/bin/Debug/net7.0/arcsin.runtimeconfig.json
+/home/max/Рабочий стол/C#/begin_arcsin_ch/bin/Debug/net7.0/arcsin.dll
+/home/max/Рабочий стол/C#/begin_arcsin_ch/bin/Debug/net7.0/arcsin.pdb
+/home/max/Рабочий стол/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.csproj.AssemblyReference.cache
+/home/max/Рабочий стол/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Рабочий стол/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.AssemblyInfoInputs.cache
+/home/max/Рабочий стол/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.AssemblyInfo.cs
+/home/max/Рабочий стол/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.csproj.CoreCompileInputs.cache
+/home/max/Рабочий стол/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.dll
+/home/max/Рабочий стол/C#/begin_arcsin_ch/obj/Debug/net7.0/refint/arcsin.dll
+/home/max/Рабочий стол/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.pdb
+/home/max/Рабочий стол/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.genruntimeconfig.cache
+/home/max/Рабочий стол/C#/begin_arcsin_ch/obj/Debug/net7.0/ref/arcsin.dll
+/home/max/C#/begin_arcsin_ch/bin/Debug/net7.0/arcsin
+/home/max/C#/begin_arcsin_ch/bin/Debug/net7.0/arcsin.deps.json
+/home/max/C#/begin_arcsin_ch/bin/Debug/net7.0/arcsin.runtimeconfig.json
+/home/max/C#/begin_arcsin_ch/bin/Debug/net7.0/arcsin.dll
+/home/max/C#/begin_arcsin_ch/bin/Debug/net7.0/arcsin.pdb
+/home/max/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.csproj.AssemblyReference.cache
+/home/max/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.AssemblyInfoInputs.cache
+/home/max/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.AssemblyInfo.cs
+/home/max/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.csproj.CoreCompileInputs.cache
+/home/max/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.dll
+/home/max/C#/begin_arcsin_ch/obj/Debug/net7.0/refint/arcsin.dll
+/home/max/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.pdb
+/home/max/C#/begin_arcsin_ch/obj/Debug/net7.0/arcsin.genruntimeconfig.cache
+/home/max/C#/begin_arcsin_ch/obj/Debug/net7.0/ref/arcsin.dll
+/home/max/C#/ch/begin_arcsin_ch/bin/Debug/net7.0/arcsin
+/home/max/C#/ch/begin_arcsin_ch/bin/Debug/net7.0/arcsin.deps.json
+/home/max/C#/ch/begin_arcsin_ch/bin/Debug/net7.0/arcsin.runtimeconfig.json
+/home/max/C#/ch/begin_arcsin_ch/bin/Debug/net7.0/arcsin.dll
+/home/max/C#/ch/begin_arcsin_ch/bin/Debug/net7.0/arcsin.pdb
+/home/max/C#/ch/begin_arcsin_ch/obj/Debug/net7.0/arcsin.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/C#/ch/begin_arcsin_ch/obj/Debug/net7.0/arcsin.AssemblyInfoInputs.cache
+/home/max/C#/ch/begin_arcsin_ch/obj/Debug/net7.0/arcsin.AssemblyInfo.cs
+/home/max/C#/ch/begin_arcsin_ch/obj/Debug/net7.0/arcsin.csproj.CoreCompileInputs.cache
+/home/max/C#/ch/begin_arcsin_ch/obj/Debug/net7.0/arcsin.dll
+/home/max/C#/ch/begin_arcsin_ch/obj/Debug/net7.0/refint/arcsin.dll
+/home/max/C#/ch/begin_arcsin_ch/obj/Debug/net7.0/arcsin.pdb
+/home/max/C#/ch/begin_arcsin_ch/obj/Debug/net7.0/arcsin.genruntimeconfig.cache
+/home/max/C#/ch/begin_arcsin_ch/obj/Debug/net7.0/ref/arcsin.dll
