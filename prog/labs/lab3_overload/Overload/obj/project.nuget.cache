@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BMoUQW1DIXEBW36BihVpaaC5m1S+3NIbN5hvb4Vz4nBv+JCXJMVb0YMkLYFyhsbryzm6wQum0XWc1e7WrHGevg==",
+  "dgSpecHash": "2CpkG8VqO2+zvMMSDklLiS8c0IX/prB3S7VMZhySi+K+kqgg7Vo2LYF7XXwJcm/BGadPb4tVLQakpYYPXXCU6w==",
   "success": true,
-  "projectFilePath": "C:\\C#\\prog\\labs\\lab3_overload\\Overload\\Overload.csproj",
+  "projectFilePath": "C:\\learn_csharp\\prog\\labs\\lab3_overload\\Overload\\Overload.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

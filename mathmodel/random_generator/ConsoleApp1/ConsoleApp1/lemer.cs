@@ -6,7 +6,7 @@ namespace random_generator
         const int A = 5;
         int Mn;
         int Y;
-        Lemer(int mn, int y)
+       public Lemer(int mn, int y)
         {
             Mn = mn;
             Y = y;
@@ -15,8 +15,23 @@ namespace random_generator
             Y = (A * Y) % Mn;
             return (double)Y / Mn;
         }
-        double[] x = new double[N];
-        void output( int NN,)
+       readonly double[] x = new double[N];
+        public void Output()
+        {
+            for (int i = 0; i < N; i++)
+            {
+                x[i] = Rnd();
+            }
+            for(int i = 0;i < 10; i++)
+            {
+               Console.WriteLine($"{x[i]:f3}");
+            }
+            Console.WriteLine();
+        }
+    }
+    class Combined_Generator
+    {
+        public Combined_Generator()
         {
 
         }
