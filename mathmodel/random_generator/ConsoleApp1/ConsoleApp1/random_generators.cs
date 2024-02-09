@@ -1,3 +1,4 @@
+using MyNamespace.Vectors;
 namespace random_generators {
     class Lemer {
         const int N = 1500;
@@ -36,14 +37,12 @@ namespace random_generators {
             Y = (A * Y + Mu) % Mm;
             return (double)Y / Mm;
         }
-        readonly double[] x = new double[N];
+         double[] x = new double[N];
         public void Output() {
             for (int i = 0; i < N; i++) {
                 x[i] = Rnd();
             }
-            for (int i = 0; i < 10; i++) {
-                Console.WriteLine($"{x[i]:f3}");
-            }
+            
             Console.WriteLine();
         }
     }
@@ -147,7 +146,7 @@ namespace random_generators {
             double x;
             for (int i = 0; i < 20; i++) {
                 x = Rnd();
-                Console.WriteLine($"{x,6:f3}");
+                Console.Write($"{x,6:f3}");
             }
             Console.WriteLine();
         }
