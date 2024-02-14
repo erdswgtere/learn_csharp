@@ -1,4 +1,3 @@
-using MyNamespace.Vectors;
 namespace random_generators {
     class Lemer {
         const int N = 1500;
