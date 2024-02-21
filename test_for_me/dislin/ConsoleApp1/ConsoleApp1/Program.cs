@@ -36,15 +36,7 @@ public class App {
             dislin.graf(0.0f, 10.0f, 0.0f, 1.0f, 0.0f, 5.0f, 0.0f, 1.0f);
 
             if (i == 1) {
-                dislin.bargrp(3, 0.15f);
-                dislin.color("red");
-                dislin.bars(x, y, y1, 10);
-                dislin.color("green");
-                dislin.bars(x, y, y2, 9);
-                dislin.color("blue");
-                dislin.bars(x, y, y3, 9);
-                dislin.color("fore");
-                dislin.reset("bargrp");
+               
             }
             else if (i == 2) {
                 dislin.height(30);
