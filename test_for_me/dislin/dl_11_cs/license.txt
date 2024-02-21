@@ -1,0 +1,57 @@
+                 END-USER LICENSE AGREEMENT FOR DISLIN
+
+This end-user license agreement (EULA) is a legal agreement between you
+and the author of the data plotting software DISLIN. DISLIN is developed
+by Helmut Michels in Göttingen, Germany. If you not wish to be bound by
+the terms of this EULA, please delete the software product from your computer.
+If you keep DISLIN on your computer, you are agreeing to the terms of this
+EULA.
+
+Overview
+
+DISLIN is a high-level plotting library for displaying data as curves, polar
+plots, bar graphs, pie charts, 3-D colour plots, surfaces, contours and maps.
+The routines in the library can be called from the programming languages
+Fortran and C, and from the interpreting languages Perl, Python, Java, Ruby
+and TCL.
+
+Grant of Free Usage
+
+You are allowed to use DISLIN for free. Either as a private person or in a 
+commercial or non-commercial environment. There are no limitations.
+
+Source Code
+
+The source code of DISLIN is only available with a support contract. It may 
+be used for bug fixes and recompiling DISLIN. You are not allowed to distribute
+the DISLIN source code, or to make it public.
+
+Limitations of Warranty and Liability
+
+The software is provided "AS IS" without warranty of any kind. The author
+of DISLIN is not liable for any lost or damaged data or other commercial 
+or economic loss. 
+
+Trademarks
+
+FreeBSD          FreeBSD Foundation
+HP-UX            Hewlett-Packard Company
+Linux            Linus Torvalds
+Mac OSX          Apple Inc.
+OpenVMS          Hewlett-Packard Company
+Solaris          Sun Microsystems, Inc.
+Tru64            Hewlett-Packard Company
+Windows          Microsoft Corporation
+
+Bundled Third Party Products
+
+DISLIN contains zlib compression routines for creating compressed PDF and
+PNG formats. zlib is written by Jean-loup Gailly and Mark Adler. The zlib
+license can be found at https://zlib.net/zlib_license.html.
+
+Helmut Michels
+Dislin Software
+Am Hachweg 10
+37083 Goettingen
+Email: michels@dislin.de
+Phone: +49 551 29348389 
