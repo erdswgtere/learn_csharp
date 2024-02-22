@@ -1,0 +1,236 @@
+                       The Graphics Software DISLIN
+                    ----------------------------------
+
+
+Introduction
+------------
+
+DISLIN is a high-level library of subroutines  and functions  that display
+data graphically. It is intended to be a powerful and easy to use software
+package for programmers and scientists  that does not require knowledge of
+hardware features. The software is available for the programming languages
+C/C++,  Fortran 77,  Fortran 90/95,  Perl, Python, Java, Ruby, Tcl, Julia,
+Go, FreeBASIC, Free Pascal, R and the C/C++ interpreter Ch.
+
+DISLIN can  display graphic information  directly on graphic terminals  or
+store them in metafiles.  The supported display types are VGA,  X Windows,
+Windows API  and Tektronix.  The supported file formats are  GKSLIN,  CGM,
+HPGL, PostScript, PDF, SVG, WMF, PNG, BMP, GIF and TIFF.  DISLIN metafiles
+can either be printed on various devices using the  DISLIN driver  program
+DISDRV or imported into third party products such as TeX and MS Word.
+
+The library contains the following features:
+
+  -  9 software fonts where each font provides 6 alphabets. Hardware fonts
+     for PostScript  printers,  X11 fonts  for  X11 displays  and TrueType
+     fonts for Windows displays and WMF files can also be used.
+     The different aphabets contain  Roman,  Greek,  Russian, mathematical 
+     and special European characters.  Plotting of  mathematical  formulas
+     with TeX instructions.
+
+  -  Plotting of two- and three-dimensional axis systems.  Axes can be li-
+     nearly or  logarithmically scaled and labeled with linear,  logarith-
+     mic, date, time, map and user-defined formats.
+
+  -  Plotting of curves. Several curves can  appear in one axis system and
+     can be  differentiated  by colour,  line style and pattern.  Multiple
+     axis systems can be displayed on a page.
+
+  -  Plotting of legends.
+
+  -  Visualization of vector fields and plotting of streamlines. 
+
+  -  Elementary  plot routines  for lines,  vectors and outlined or filled
+     regions such as rectangles, circles, arcs, ellipses and polygons.
+
+  -  Shielded regions can be defined.
+
+  -  Business graphics.
+
+  -  3-D colour graphics.
+
+  -  3-D graphics.
+
+  -  Elementary image routines.
+
+  -  Geographical projections and plotting of maps.
+
+  -  Contouring.
+
+  -  Graphical user interface (GUI) routines based on Motif and
+     Windows API functions. 
+
+  -  Some quick plots for displaying data with one statement.
+ 
+
+Hard- and Software Requirements
+-------------------------------
+
+
+At the moment, DISLIN versions are available for the following hard- 
+and software components:
+
+   ----------------------------------------------------------------
+   |   Hardware       | Operating Syst. |        Compiler         |
+   ----------------------------------------------------------------
+   | IBM-PC / x86     | MS-DOS          | gcc  (DJGPP)            |
+   |                  |                 | g77  (DJGPP)            |
+   ----------------------------------------------------------------
+   | IBM-PC / x86     | Windows         | Absoft Fortran 8.x, 9.x |
+   |                  |                 | Absoft Fortran >= 10.x  |
+   |                  |                 | Borland C++ 5.x, 6.0    |
+   |                  |                 | C/C++ Interpreter Ch    | 
+   |                  |                 | Digital Mars C/C++      |
+   |                  |                 | Digital Visual Fortran  |
+   |                  |                 |                5.x, 6.0 |
+   |                  |                 | FreeBASIC               | 
+   |                  |                 | Free Pascal             | 
+   |                  |                 | gcc/g++/g95/gfortran    |
+   |                  |                 |                 Cygwin  |
+   |                  |                 | gcc/g++/g95/gfortran    |
+   |                  |                 |                  Mingw  |
+   |                  |                 | Go 1.13 and higher      | 
+   |                  |                 | Intel icl, ifort        |
+   |                  |                 | Java                    |
+   |                  |                 | Julia 0.7 and higher    |
+   |                  |                 | Lahey LF90 3.x, 4.x     |
+   |                  |                 | Lahey LF95 5.x          |
+   |                  |                 | LCC-Win32               |
+   |                  |                 | MS Visual C++           | 
+   |                  |                 | Nagfor 6.2              |
+   |                  |                 | Open Watcom wcl, wfl    |
+   |                  |                 | Perl 5.20.x, 5.22.x,    |
+   |                  |                 |         5.30.x, 5.32.x  |
+   |                  |                 | Portland Group pgf77,   |
+   |                  |                 |            pgf90, pgf95 |
+   |                  |                 | Python 2.7, 3.7, 3.8,   |
+   |                  |                 |              3.9, 3.10  |
+   |                  |                 | R 3.2.1 and higher      |
+   |                  |                 | Ruby 1.9, 2.7, 3.1      |
+   |                  |                 | Tcl 8.5                 |
+   |                  |                 | Salford-FTN77, FTN90,   |
+   |                  |                 |                   FTN95 |
+   ----------------------------------------------------------------
+   | IBM-PC / x86     | Linux           | gcc, g++, gfortran,     |
+   |                  |                 | Absoft f77, f90, f95,   |
+   |                  |                 | Intel ifort/icc,        |
+   |                  |                 | Portland pgf77, pgf90,  |  
+   |                  |                 |                  pgf95, |
+   |                  |                 | Sun Studio compilers,   | 
+   |                  |                 | Java, Perl, Python,     |
+   |                  |                 | Ruby, Tcl, Ch, Go       | 
+   ----------------------------------------------------------------
+   | Raspberry Pi     | Linux           | gcc, g++, gfortran,     |
+   |                  |                 | Java, Perl, Python,     |
+   |                  |                 | Ruby, Tcl               | 
+   ----------------------------------------------------------------
+   | IBM-PC / x86     | FreeBSD         | gcc, g++, gfortran,     |
+   |                  |                 | Perl, Python, Ruby, Tcl |
+   ----------------------------------------------------------------
+   | IBM-PC / x86     | .NET            | c#, Visual C++ .NET,    |
+   |                  |                 | Visual Basic .NET       |
+   ----------------------------------------------------------------
+   | IBM-PC / x86     | Solaris 10, x86 | cc, cpp, f77, f90,      |
+   |                  |                 | Java, Perl, Python      |
+   ----------------------------------------------------------------
+   | AMD64  / x64     | Windows 64-bit  | Absoft Fortran >= 10.x  |
+   |                  |                 | FreeBASIC               | 
+   |                  |                 | Free Pascal             | 
+   |                  |                 | gcc, g++, gfortran      |
+   |                  |                 |                MinGW64  |        
+   |                  |                 | gcc, g++, gfortran,     |
+   |                  |                 |  Perl, Python  Cygwin   |        
+   |                  |                 | Go 1.13 and higher      | 
+   |                  |                 | Intel icc, ifort        |
+   |                  |                 | Java 64-bit             |
+   |                  |                 | Julia 0.7 and higher    |
+   |                  |                 | MS Visual C++           | 
+   |                  |                 | Nagfor 6.2              |
+   |                  |                 | Perl 5.20.x, 5.22.x,    |
+   |                  |                 |         5.30.x, 5.32.x  |
+   |                  |                 | Portland pgf77, pgf95   |
+   |                  |                 | Python 2.7, 3.7, 3.8,   |
+   |                  |                 |              3.9, 3.10  |
+   |                  |                 | R 3.2.1 and higher      |
+   |                  |                 | Silverfrost FTN95 8.30  |
+   ----------------------------------------------------------------
+   | AMD64  / x64     | Linux 64-bit    | gcc, g++, gfortran,     |
+   |                  |                 | Absoft f77, f90, f95,   |
+   |                  |                 | Intel ifort/icc,        |
+   |                  |                 | Portland pgf77, pgf90,  |  
+   |                  |                 |                   pgf95 |
+   |                  |                 | Sun Studio compilers,   | 
+   |                  |                 | Java, Perl, Python,     |
+   |                  |                 | Ruby, Tcl, Ch, Go       |
+   ----------------------------------------------------------------
+   | AMD64 / x64      | FreeBSD 64-bit  | gcc, g++, gfortran,     |
+   |                  |                 | Perl, Python, Ruby, Tcl |
+   ----------------------------------------------------------------
+   | AMD64 / x64      | Solaris 10, x86 | cc, cpp, f77, f90,      |
+   |                  |      64-bit     | Java, Perl, Python      |
+   ----------------------------------------------------------------
+   | Mac Intel        | Mac OSX         | gcc, g++, gfortran,     |
+   |                  |                 | Perl, Python, Java      |
+   ----------------------------------------------------------------
+   | Mac PPC          | Mac OSX         | gcc, g++, gfortran,     |
+   |                  |                 | Perl, Python, Java      |
+   ----------------------------------------------------------------
+   | SUN SPARC        | SunOS 5.x       | cc, cpp, f77, f90,      |
+   |                  |                 | Java, Perl, Python      |
+   ---------------------------------------------------------------- 
+
+
+License Information
+-------------------
+
+Since version 11.3 the DISLIN distributions can be used freely without
+any restrictions. Access to the source code is only availabe via a support 
+contract from the site www.dislin.de.
+
+The following support contracts are available:
+
+       ------------------------------------------------------------
+       |     Support Contract     |      Euro     |    US Dollar  |
+       ------------------------------------------------------------
+       |   Single User (1 year)   |    50,- EUR   |      $55      |
+       ------------------------------------------------------------
+       |   Single User (3 years)  |   120,- EUR   |     $132      |
+       ------------------------------------------------------------
+       |   Multi User  (1 year)   |   150,- EUR   |     $165      |
+       ------------------------------------------------------------
+       |   Multi User  (3 years)  |   360,- EUR   |     $396      |
+       ------------------------------------------------------------
+
+Notes:
+
+     - All prices above are final prices.
+
+     - The contract period is one year or three years.
+
+     - Multi User contracts are suitable for companies with multiple
+       DISLIN users.
+     
+     - The contract allows a password protected access to the DISLIN
+       source code and a preferred treatment of bug fixes and problem
+       solution.
+       
+     - Payment for the support can be done with PayPal, by money transfer
+       to a bank account, or by cheque.
+ 
+Author
+------
+
+        Helmut Michels
+        Dislin Software
+        Am Hachweg 10
+        37083 Goettingen, Germany
+        Email: michels@dislin.de
+
+
+Web Sites
+--------
+
+        https://www.dislin.de
+        https://www.dislin-software.de
+
+
