@@ -26,30 +26,24 @@ public class App {
 
         dislin.legini(cbuf, 3, 8);
         dislin.leglin(cbuf, "FIRST", 1);
-        dislin.leglin(cbuf, "SECOND", 2);
-        dislin.leglin(cbuf, "THIRD", 3);
+        
         dislin.legtit(" ");
         dislin.shdpat(5);
+        dislin.axspos(300, nya - (3 - 1) * 800);
+        dislin.graf(0.0f, 10.0f, 0.0f, 1.0f, 0.0f, 5.0f, 0.0f, 1.0f);
+        dislin.labels("second", "bars");
+        dislin.labpos("outside", "bars");
+        dislin.color("red");
+        dislin.bars(x, y, y1, 10);
+        dislin.color("fore");
         for (i = 1; i <= 3; i++) {
-            if (i > 1) dislin.labels("none", "x");
-            dislin.axspos(300, nya - (i - 1) * 800);
-            dislin.graf(0.0f, 10.0f, 0.0f, 1.0f, 0.0f, 5.0f, 0.0f, 1.0f);
+            
 
             if (i == 1) {
                
             }
             else if (i == 2) {
-                dislin.height(30);
-                dislin.labels("delta", "bars");
-                dislin.labpos("center", "bars");
-                dislin.color("red");
-                dislin.bars(x, y, y1, 9);
-                dislin.color("green");
-                dislin.bars(x, y1, y2, 9);
-                dislin.color("blue");
-                dislin.bars(x, y2, y3, 9);
-                dislin.color("fore");
-                dislin.reset("height");
+                
             }
             else if (i == 3) {
                 dislin.labels("second", "bars");
