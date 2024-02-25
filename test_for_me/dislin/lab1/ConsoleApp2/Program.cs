@@ -2,8 +2,8 @@
 
 namespace Mult_RND_test {
     class Program {
-        // Количество случайных чисел
-        const int _N = 1500;
+        // Количество случайных чисел (размер массива values)
+        const int _N = 15;
         // Параметр мультипликативного датчика
         static int _A; // Модуль 
         static int _Mm;
@@ -35,7 +35,7 @@ namespace Mult_RND_test {
         /// <pаram name = "parDataFunc"> Mассив функции распределения </param>
         /// <param name = "parMin"> Левая граница интервала </param>
         /// <param name = "parMax"> Правая граница интервала </param> 
-        static void MakeData(double[] parValues,out double[] parDataPlot,out double[] parDataFunc,double parMin,double parMax) {
+        static void MakeData(double[] parValues, out double[] parDataPlot, out double[] parDataFunc, double parMin, double parMax) {
             double delta = (parMax - parMin) / _K;
             parDataPlot = new double[_K];
             parDataFunc = new double[_K];
@@ -50,13 +50,13 @@ namespace Mult_RND_test {
             parDataFunc[0] = parDataPlot[0];
             for (int i = 1; i < _K; i++)
                 parDataFunc[i] = parDataFunc[i - 1] + parDataPlot[i];
-            Console.WriteLine($"Кол-во элементов { parValues.Length}");
+            Console.WriteLine($"Кол-во элементов {parValues.Length}");
         }
         /// <summary> Получить статистические оценки</summary> 
         /// <param name = "parValues"> Случайные числа
         /// <param name = "parMx"> Mатематическое ожидание</param>
         /// <раrаm пame = "раrS2"> Исправленная выборочная дисперсия </раrаm>
-        static void Estimate(double[] parValues,out double parMx,out double parS2) {
+        static void Estimate(double[] parValues, out double parMx, out double parS2) {
             double m2 = 0;
             parMx = 0;
             for (int i = 0; i < _N; i++) {
@@ -74,25 +74,20 @@ namespace Mult_RND_test {
             _Mm = 4096;
             _A = 5;
             _Y = _Mm - 5;
-            _K = 15;
+            _K = 15; // размер массива частот
             GenerateData(out values);
             MakeData(values, out dataPlot, out dataFunc, 0.0, 1.0);
-            for (int i = 0; i < 10; i++) {
-                Console.WriteLine($"{(int)(dataPlot[i] * 1000)} ");
+            for (int i = 0; i < 15; i++) {
+                Console.WriteLine($"{(dataPlot[i] * 100)} ");
             }
-
+            Console.WriteLine($"Размерность {dataPlot.Length}");
+            Console.WriteLine();
+            for (int i = 0; i < 15; i++) {
+                Console.WriteLine($"{values[i] * 100} ");
+            }
             //... построение гистограммы частот и 
             // статистической функции распределения
-            double mx, dx;
-            Estimate(values, out mx, out dx);
-            Console.WriteLine();
-           for (int i = 0; i <= 50;i++) {
-                Console.WriteLine(values[i]);
-           }
-            Console.WriteLine();
-            for (int i = 0; i <= 10; i++) {
-                Console.WriteLine(dataPlot[i]);
-            }
+            Estimate(values, out double mx, out double dx);
             Console.WriteLine();
 
             // обработка статистических параметров

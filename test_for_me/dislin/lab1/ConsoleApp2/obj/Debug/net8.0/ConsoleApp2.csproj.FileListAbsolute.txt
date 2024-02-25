@@ -13,3 +13,6 @@ C:\learn_csharp\test_for_me\dislin\lab1\ConsoleApp2\obj\Debug\net8.0\refint\Cons
 C:\learn_csharp\test_for_me\dislin\lab1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
 C:\learn_csharp\test_for_me\dislin\lab1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
 C:\learn_csharp\test_for_me\dislin\lab1\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
+C:\learn_csharp\test_for_me\dislin\lab1\ConsoleApp2\bin\Debug\net8.0\disnet.dll
+C:\learn_csharp\test_for_me\dislin\lab1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\learn_csharp\test_for_me\dislin\lab1\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CopyComplete
