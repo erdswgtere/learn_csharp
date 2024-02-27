@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics;
-
+using dislin_my;
 namespace Mult_RND_test {
     class Program {
         // Количество случайных чисел (размер массива values)
-        const int _N = 15;
+        const int _N = 1500;
         // Параметр мультипликативного датчика
         static int _A; // Модуль 
         static int _Mm;
@@ -87,6 +87,7 @@ namespace Mult_RND_test {
             }
             //... построение гистограммы частот и 
             // статистической функции распределения
+            Dislin_my dismy = new Dislin_my(dataPlot);
             Estimate(values, out double mx, out double dx);
             Console.WriteLine();
 
