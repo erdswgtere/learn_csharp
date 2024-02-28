@@ -1,0 +1,6 @@
+C:\learn_csharp\test module\labs\lab3\MathTaskLibrary_my\MathTaskLibrary_my\bin\Debug\MathTaskLibrary_my.dll
+C:\learn_csharp\test module\labs\lab3\MathTaskLibrary_my\MathTaskLibrary_my\bin\Debug\MathTaskLibrary_my.pdb
+C:\learn_csharp\test module\labs\lab3\MathTaskLibrary_my\MathTaskLibrary_my\obj\Debug\MathTaskLibrary_my.csproj.AssemblyReference.cache
+C:\learn_csharp\test module\labs\lab3\MathTaskLibrary_my\MathTaskLibrary_my\obj\Debug\MathTaskLibrary_my.csproj.CoreCompileInputs.cache
+C:\learn_csharp\test module\labs\lab3\MathTaskLibrary_my\MathTaskLibrary_my\obj\Debug\MathTaskLibrary_my.dll
+C:\learn_csharp\test module\labs\lab3\MathTaskLibrary_my\MathTaskLibrary_my\obj\Debug\MathTaskLibrary_my.pdb
