@@ -24,7 +24,6 @@ namespace Mult_RND_test {
             Lemer cmb = new Lemer(_Mm, _Y);
             // получение случайных чисел
             for (int i = 0; i < _N; i++)
-
                 parValues[i] = cmb.Rnd(); //для примера вставлен комбинированный генератор
         }
         /// <summary> Получить массивы оценок для плотности и функции
@@ -84,12 +83,19 @@ namespace Mult_RND_test {
             for (int i = 0; i < 15; i++) {
                 Console.WriteLine($"{values[i] * 100} ");
             }
+            Console.WriteLine();
+            for (int i = 0; i < 15; i++) {
+                Console.WriteLine($"{dataFunc[i] * 100} ");
+            }
             //... построение гистограммы частот и 
             // статистической функции распределения
 
 
             Dislin_my dismy = new Dislin_my(ref dataPlot, ref values);
             dismy.Diag();
+
+            Dislin_my dismy_func = new Dislin_my(ref dataFunc, ref values);
+            dismy_func.Diag();
 
             Estimate(values, out double mx, out double dx);
             Console.WriteLine();
