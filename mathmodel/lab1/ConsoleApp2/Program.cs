@@ -64,6 +64,7 @@ namespace Mult_RND_test {
             parMx /= _N;
             m2 /= _N;
             parS2 = (m2 - parMx * parMx) * _N / (_N - 1);
+            Console.WriteLine($"мат. ожидание = {parMx}, дисперсия = {parS2}");
         }
         /// <summary> Основная программа </summary>
         /// <param name = "args"> Аргументы </param> 
@@ -91,11 +92,9 @@ namespace Mult_RND_test {
             // статистической функции распределения
 
 
-            Dislin_my dismy = new Dislin_my(ref dataPlot, ref values);
+            Dislin_my dismy = new Dislin_my(ref dataPlot, ref values, ref dataFunc);
             dismy.Diag();
-
-            Dislin_my dismy_func = new Dislin_my(ref dataFunc, ref values);
-            dismy_func.Diag();
+            dismy.Diag_for_datafunc();
 
             Estimate(values, out double mx, out double dx);
             Console.WriteLine();
