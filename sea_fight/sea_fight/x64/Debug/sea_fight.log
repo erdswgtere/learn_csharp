@@ -1,0 +1,5 @@
+﻿  sea_fight.cpp
+C:\bakl\test_module\lab4_blackbox\sea_fight\sea_fight\sea_fight.cpp(57,39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\bakl\test_module\lab4_blackbox\sea_fight\sea_fight\sea_fight.cpp(407,39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\bakl\test_module\lab4_blackbox\sea_fight\sea_fight\sea_fight.cpp(474,39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sea_fight.vcxproj -> C:\bakl\test_module\lab4_blackbox\sea_fight\x64\Debug\sea_fight.exe
