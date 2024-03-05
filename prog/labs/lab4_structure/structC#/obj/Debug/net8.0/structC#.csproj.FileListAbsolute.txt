@@ -1,0 +1,15 @@
+C:\learn_csharp\prog\labs\lab4_structure\structC#\bin\Debug\net8.0\structC#.exe
+C:\learn_csharp\prog\labs\lab4_structure\structC#\bin\Debug\net8.0\structC#.deps.json
+C:\learn_csharp\prog\labs\lab4_structure\structC#\bin\Debug\net8.0\structC#.runtimeconfig.json
+C:\learn_csharp\prog\labs\lab4_structure\structC#\bin\Debug\net8.0\structC#.dll
+C:\learn_csharp\prog\labs\lab4_structure\structC#\bin\Debug\net8.0\structC#.pdb
+C:\learn_csharp\prog\labs\lab4_structure\structC#\obj\Debug\net8.0\structC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn_csharp\prog\labs\lab4_structure\structC#\obj\Debug\net8.0\structC#.AssemblyInfoInputs.cache
+C:\learn_csharp\prog\labs\lab4_structure\structC#\obj\Debug\net8.0\structC#.AssemblyInfo.cs
+C:\learn_csharp\prog\labs\lab4_structure\structC#\obj\Debug\net8.0\structC#.csproj.CoreCompileInputs.cache
+C:\learn_csharp\prog\labs\lab4_structure\structC#\obj\Debug\net8.0\structC#.sourcelink.json
+C:\learn_csharp\prog\labs\lab4_structure\structC#\obj\Debug\net8.0\structC#.dll
+C:\learn_csharp\prog\labs\lab4_structure\structC#\obj\Debug\net8.0\refint\structC#.dll
+C:\learn_csharp\prog\labs\lab4_structure\structC#\obj\Debug\net8.0\structC#.pdb
+C:\learn_csharp\prog\labs\lab4_structure\structC#\obj\Debug\net8.0\structC#.genruntimeconfig.cache
+C:\learn_csharp\prog\labs\lab4_structure\structC#\obj\Debug\net8.0\ref\structC#.dll
