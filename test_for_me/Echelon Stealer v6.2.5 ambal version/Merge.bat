@@ -1,0 +1,1 @@
+ilmerge /xmldocs /ndebug bin/Release/Echelon.exe bin/Release/ChromV1.dll bin/Release/ChromV2.dll bin/Release/DotNetZip.dll bin/Release/MegaApiClient.dll bin/Release/Newtonsoft.Json.dll /out:OUTPUT/File.exe
