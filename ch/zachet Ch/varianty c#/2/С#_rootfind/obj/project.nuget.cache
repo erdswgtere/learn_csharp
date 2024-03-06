@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xlxANz+u7oX0QKR25T7VhqksRjcfHSq5DsHZA6OOw1ma6LRMQ6csYv006NOr8XDOhozjuBU5Dupr6gAe8tQCcw==",
+  "dgSpecHash": "AEuN1UcU3zXStlxaOwS0ZkhYb7x2jL3lnU3YUSkgk6VpNpuKv7UL1LTfPYQCHY92oyegnnlhrkGYNnB5O/kBqA==",
   "success": true,
-  "projectFilePath": "/home/max/Desktop/zachet Ch/varianty c#/2/С#_rootfind/С#_rootfind.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\learn_csharp\\ch\\zachet Ch\\varianty c#\\2\\С#_rootfind\\С#_rootfind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
