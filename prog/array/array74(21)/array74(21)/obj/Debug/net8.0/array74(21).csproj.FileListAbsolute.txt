@@ -1,0 +1,15 @@
+C:\learn_csharp\prog\array\array74(21)\array74(21)\bin\Debug\net8.0\array74(21).exe
+C:\learn_csharp\prog\array\array74(21)\array74(21)\bin\Debug\net8.0\array74(21).deps.json
+C:\learn_csharp\prog\array\array74(21)\array74(21)\bin\Debug\net8.0\array74(21).runtimeconfig.json
+C:\learn_csharp\prog\array\array74(21)\array74(21)\bin\Debug\net8.0\array74(21).dll
+C:\learn_csharp\prog\array\array74(21)\array74(21)\bin\Debug\net8.0\array74(21).pdb
+C:\learn_csharp\prog\array\array74(21)\array74(21)\obj\Debug\net8.0\array74(21).GeneratedMSBuildEditorConfig.editorconfig
+C:\learn_csharp\prog\array\array74(21)\array74(21)\obj\Debug\net8.0\array74(21).AssemblyInfoInputs.cache
+C:\learn_csharp\prog\array\array74(21)\array74(21)\obj\Debug\net8.0\array74(21).AssemblyInfo.cs
+C:\learn_csharp\prog\array\array74(21)\array74(21)\obj\Debug\net8.0\array74(21).csproj.CoreCompileInputs.cache
+C:\learn_csharp\prog\array\array74(21)\array74(21)\obj\Debug\net8.0\array74(21).sourcelink.json
+C:\learn_csharp\prog\array\array74(21)\array74(21)\obj\Debug\net8.0\array74(21).dll
+C:\learn_csharp\prog\array\array74(21)\array74(21)\obj\Debug\net8.0\refint\array74(21).dll
+C:\learn_csharp\prog\array\array74(21)\array74(21)\obj\Debug\net8.0\array74(21).pdb
+C:\learn_csharp\prog\array\array74(21)\array74(21)\obj\Debug\net8.0\array74(21).genruntimeconfig.cache
+C:\learn_csharp\prog\array\array74(21)\array74(21)\obj\Debug\net8.0\ref\array74(21).dll

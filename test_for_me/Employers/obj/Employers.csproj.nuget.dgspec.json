@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\College\\ModDev\\LR4\\Employers\\Employers.csproj": {}
+    "C:\\learn_csharp\\test_for_me\\Employers\\Employers.csproj": {}
   },
   "projects": {
-    "G:\\College\\ModDev\\LR4\\Employers\\Employers.csproj": {
+    "C:\\learn_csharp\\test_for_me\\Employers\\Employers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\College\\ModDev\\LR4\\Employers\\Employers.csproj",
+        "projectUniqueName": "C:\\learn_csharp\\test_for_me\\Employers\\Employers.csproj",
         "projectName": "Employers",
-        "projectPath": "G:\\College\\ModDev\\LR4\\Employers\\Employers.csproj",
-        "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "G:\\College\\ModDev\\LR4\\Employers\\obj\\",
+        "projectPath": "C:\\learn_csharp\\test_for_me\\Employers\\Employers.csproj",
+        "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
+        "outputPath": "C:\\learn_csharp\\test_for_me\\Employers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\bin\Debug\net8.0\var21.p7.2.exe
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\bin\Debug\net8.0\var21.p7.2.deps.json
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\bin\Debug\net8.0\var21.p7.2.runtimeconfig.json
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\bin\Debug\net8.0\var21.p7.2.dll
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\bin\Debug\net8.0\var21.p7.2.pdb
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\obj\Debug\net8.0\var21.p7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\obj\Debug\net8.0\var21.p7.2.AssemblyInfoInputs.cache
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\obj\Debug\net8.0\var21.p7.2.AssemblyInfo.cs
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\obj\Debug\net8.0\var21.p7.2.csproj.CoreCompileInputs.cache
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\obj\Debug\net8.0\var21.p7.2.sourcelink.json
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\obj\Debug\net8.0\var21.p7.2.dll
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\obj\Debug\net8.0\refint\var21.p7.2.dll
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\obj\Debug\net8.0\var21.p7.2.pdb
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\obj\Debug\net8.0\var21.p7.2.genruntimeconfig.cache
+C:\learn_csharp\prog\string\var21.p7.2\var21.p7.2\obj\Debug\net8.0\ref\var21.p7.2.dll
