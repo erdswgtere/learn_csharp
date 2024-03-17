@@ -3,7 +3,7 @@ using random_generators;
 namespace Mult_RND_test {
     class Program {
         // Количество случайных чисел (размер массива values)
-        const int _N = 1500;
+        const int _N = 1000;
         // Параметр мультипликативного датчика
         static int _A; // Модуль 
         static int _Mm;
@@ -21,10 +21,10 @@ namespace Mult_RND_test {
         /// чисел </param>
         static void GenerateData(out double[] parValues) {
             parValues = new double[_N];
-            Lemer cmb = new Lemer(_Mm, _Y);
+            Normal_gen nrmlgen = new Normal_gen(_N, _K);
             // получение случайных чисел
             for (int i = 0; i < _N; i++)
-                parValues[i] = cmb.Rnd(); //для примера вставлен комбинированный генератор
+                parValues[i] = nrmlgen.Normal(3,1); //для примера вставлен комбинированный генератор
         }
         /// <summary> Получить массивы оценок для плотности и функции
         /// pаспределения </summary>
@@ -77,16 +77,16 @@ namespace Mult_RND_test {
             GenerateData(out values);
             MakeData(values, out dataPlot, out dataFunc, 0.0, 1.0);
             for (int i = 0; i < 15; i++) {
-                Console.WriteLine($"{(dataPlot[i] * 1000)} ");
+                Console.WriteLine($"{(dataPlot[i] * 1000 )} ");
             }
             Console.WriteLine($"Размерность {dataPlot.Length}");
             Console.WriteLine();
             for (int i = 0; i < 15; i++) {
-                Console.WriteLine($"{values[i] * 100} ");
+                Console.WriteLine($"{values[i] } ");
             }
             Console.WriteLine();
             for (int i = 0; i < 15; i++) {
-                Console.WriteLine($"{dataFunc[i] * 100} ");
+                Console.WriteLine($"{dataFunc[i] * 1000} ");
             }
             //... построение гистограммы частот и 
             // статистической функции распределения
