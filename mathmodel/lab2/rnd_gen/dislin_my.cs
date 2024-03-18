@@ -14,13 +14,13 @@ namespace dislin_my {
             float[] floatValues = new float[Values.Length];
 
             for (var i = 0; i < Values.Length; ++i) {
-                floatValues[i] = (float)Values[i] * 100;
+                floatValues[i] = (float)Values[i] * 10;
             }
 
             float[] floatFuncmas = new float[Funcmas.Length];
 
             for (var i = 0; i < Funcmas.Length; ++i) {
-                floatFuncmas[i] = (float)Funcmas[i] * 100;
+                floatFuncmas[i] = (float)Funcmas[i] * 1000;
             }
 
             funcmas = floatFuncmas;
@@ -43,7 +43,7 @@ namespace dislin_my {
             dislin.intax();
             dislin.axslen(1800, 1000);
             dislin.titlin(ctit, 1);
-            dislin.barwth(0.9f);
+            dislin.barwth(0.5f);
             dislin.barbor(490);
             dislin.legini(cbuf, 1, 25);
             dislin.leglin(cbuf, "Lemer_generator", 1);
@@ -99,3 +99,7 @@ namespace dislin_my {
         }
     }
 }
+
+
+// dislin.graf(-50.0f, 50.0f, -50.0f, 5.0f, 0.0f, 100.0f, 0.0f, 10.0f);
+// dislin.graf(0.0f, 100.0f, 0.0f, 5.0f, 0.0f, 100.0f, 0.0f, 10.0f);

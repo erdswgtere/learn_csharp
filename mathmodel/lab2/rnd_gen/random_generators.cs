@@ -149,23 +149,69 @@
             }
             Console.WriteLine();
         }
-        public void Approximate() {
-            Console.Write("Количество случайных величин n: ");
-            int n = int.Parse(Console.ReadLine());
+    }
+    public class Normal_gen {
+        int K;
+        int N;
+        public Normal_gen(int _N, int _K) {
+            K = _K;
+            N = _N;
+        }
+        public double Approximate() {
             Random random = new Random();
             double r, x;
             double k = Math.Sqrt(8.0 / Math.PI);
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < N; i++) {
                 r = random.NextDouble();
                 x = Math.Log((1 + r) / (1 - r)) / k;
-            r = random.NextDouble();
-            if (r < 0.5) x = -x;
-            Console.WriteLine("x[{0}] = {1:f3}", i + 1, x);
+                r = random.NextDouble();
+                if (r < 0.5) x = -x;
+                return x;
+            }
+            return 0.0;
+        }
+        public void Normal_for_test() {
+            Console.Write("Математическое ожидание m: ");
+            double m = double.Parse(Console.ReadLine());
+            Console.Write("Дисперсия d: ");
+            double d = double.Parse(Console.ReadLine());
+            Console.Write("Количество случайных величин n: ");
+            int n = int.Parse(Console.ReadLine());
+            Random random = new Random();
+            double s, r;
+            for (int i = 0; i < n; i++) {
+                s = 0;
+                for (int j = 0; j < 12; j++) {
+                    r = random.NextDouble();
+                    s += r;
+                }
+                double x = s - 6;
+                x = m + x * Math.Sqrt(d);
+                Console.WriteLine("x[{0}] = {1:f3}", i + 1, x);
+            }
             Console.WriteLine("Моделирование завершено");
             Console.ReadLine();
         }
+        public double Normal(int M, int D) {
+            double m = M;
+            double d = D;
+            Random random = new Random();
+            double s, r;
+            for (int i = 0; i < N; i++) {
+                s = 0;
+                for (int j = 0; j < 12; j++) {
+                    r = random.NextDouble();
+                    s += r;
+                }
+                double x = s - 6;
+                x = m + x * Math.Sqrt(d);
+                return x;
+            }
+            return 0.0;
+        }
+
     }
 }
-}
+
 
 
