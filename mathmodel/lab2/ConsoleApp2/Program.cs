@@ -3,7 +3,7 @@ using random_generators;
 namespace Mult_RND_test {
     class Program {
         // Количество случайных чисел (размер массива values)
-        const int _N = 1000;
+        const int _N = 1500;
         // Параметр мультипликативного датчика
         static int _A; // Модуль 
         static int _Mm;
@@ -19,6 +19,10 @@ namespace Mult_RND_test {
         /// </summary> 
         /// <param name = "parValues"> Mассив случайных
         /// чисел </param>
+        private static double Rnd() {
+            _Y = (_A * _Y) % _Mm;
+            return (double)_Y / _Mm;
+        }
         static void GenerateData(out double[] parValues) {
             parValues = new double[_N];
             Normal_gen nrmlgen = new Normal_gen(_N, _K);
@@ -77,7 +81,7 @@ namespace Mult_RND_test {
             GenerateData(out values);
             MakeData(values, out dataPlot, out dataFunc, 0.0, 1.0);
             for (int i = 0; i < 15; i++) {
-                Console.WriteLine($"{(dataPlot[i] * 1000 )} ");
+                Console.WriteLine($"{(dataPlot[i]  )} ");
             }
             Console.WriteLine($"Размерность {dataPlot.Length}");
             Console.WriteLine();
@@ -86,7 +90,7 @@ namespace Mult_RND_test {
             }
             Console.WriteLine();
             for (int i = 0; i < 15; i++) {
-                Console.WriteLine($"{dataFunc[i] * 1000} ");
+                Console.WriteLine($"{dataFunc[i]} ");
             }
             //... построение гистограммы частот и 
             // статистической функции распределения

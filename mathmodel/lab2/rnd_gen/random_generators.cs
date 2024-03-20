@@ -209,7 +209,34 @@
             }
             return 0.0;
         }
+        public void Mak_bod() {
+            Console.WriteLine("Параметры первого распределения");
+            Console.Write("математическое ожидание m1: ");
+            double m1 = double.Parse(Console.ReadLine());
+            Console.Write("дисперсия d1: ");
+            double d1 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Параметры второго  распределения");
+            Console.Write("математическое ожидание m2: ");
+            double m2 = double.Parse(Console.ReadLine());
+            Console.Write("дисперсия d2: ");
+            double d2 = double.Parse(Console.ReadLine());
+            Console.Write("Количество случайных величин n: ");
+            int n = int.Parse(Console.ReadLine());
+            Random random = new Random();
+            double r1, r2, x, y;
+            for (int i = 0; i < n; i++) {
+                r1 = random.NextDouble();
+                r2 = random.NextDouble();
+                x = Math.Sqrt(-2 * Math.Log(r1)) *
+                Math.Cos(2 * Math.PI * r2);
+                x = m1 + x * Math.Sqrt(d1);
+                y = Math.Sqrt(-2 * Math.Log(r1)) *
+                Math.Sin(2 * Math.PI * r2);
+                y = m2 + y * Math.Sqrt(d2);
+                Console.WriteLine("x[{0}] = {1:f3} y[{0}] = { 2:f3} ", i + 1, x, y);
+            }
 
+        }
     }
 }
 

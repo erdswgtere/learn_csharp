@@ -14,13 +14,13 @@ namespace dislin_my {
             float[] floatValues = new float[Values.Length];
 
             for (var i = 0; i < Values.Length; ++i) {
-                floatValues[i] = (float)Values[i] * 10;
+                floatValues[i] = (float)Values[i] * 100;
             }
 
             float[] floatFuncmas = new float[Funcmas.Length];
 
             for (var i = 0; i < Funcmas.Length; ++i) {
-                floatFuncmas[i] = (float)Funcmas[i] * 1000;
+                floatFuncmas[i] = (float)Funcmas[i] * 100;
             }
 
             funcmas = floatFuncmas;
