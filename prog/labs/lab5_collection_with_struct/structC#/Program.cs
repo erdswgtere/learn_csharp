@@ -1,10 +1,11 @@
-﻿using mystruct;
+﻿namespace Health_and_Medicine;
 using System.Globalization;
 internal class Program {
     private static void Main(string[] args) {
-        Console.Write("Введите кол-во сотрудников: ");
+        Console.Write("Введите кол-во аптек: ");
         int n = Convert.ToInt32(Console.ReadLine());
-        List<Labor> alllabor = new List<Labor>(n);
+        List<Health> alllabor = new List<Health>(n);
+        List<Health.Medicine> all = new List<Health.Medicine>();
         for (int i = 0; i < n; i++) {
             Console.Write($"Введите ФИО сотрудника {i}: ");
             string FIO = Convert.ToString(Console.ReadLine()!);

@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/max/C#/prog/array_11_3a_11_18a_12_71b__Sinitsyn_prog/ar_11_18a/ar_11_18a.csproj": {}
+    "C:\\learn_csharp\\prog\\array\\array_11_3a_11_18a_12_71b__Sinitsyn_prog\\ar_11_18a\\ar_11_18a.csproj": {}
   },
   "projects": {
-    "/home/max/C#/prog/array_11_3a_11_18a_12_71b__Sinitsyn_prog/ar_11_18a/ar_11_18a.csproj": {
+    "C:\\learn_csharp\\prog\\array\\array_11_3a_11_18a_12_71b__Sinitsyn_prog\\ar_11_18a\\ar_11_18a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/max/C#/prog/array_11_3a_11_18a_12_71b__Sinitsyn_prog/ar_11_18a/ar_11_18a.csproj",
+        "projectUniqueName": "C:\\learn_csharp\\prog\\array\\array_11_3a_11_18a_12_71b__Sinitsyn_prog\\ar_11_18a\\ar_11_18a.csproj",
         "projectName": "ar_11_18a",
-        "projectPath": "/home/max/C#/prog/array_11_3a_11_18a_12_71b__Sinitsyn_prog/ar_11_18a/ar_11_18a.csproj",
-        "packagesPath": "/home/max/.nuget/packages/",
-        "outputPath": "/home/max/C#/prog/array_11_3a_11_18a_12_71b__Sinitsyn_prog/ar_11_18a/obj/",
+        "projectPath": "C:\\learn_csharp\\prog\\array\\array_11_3a_11_18a_12_71b__Sinitsyn_prog\\ar_11_18a\\ar_11_18a.csproj",
+        "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
+        "outputPath": "C:\\learn_csharp\\prog\\array\\array_11_3a_11_18a_12_71b__Sinitsyn_prog\\ar_11_18a\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/max/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,12 +55,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

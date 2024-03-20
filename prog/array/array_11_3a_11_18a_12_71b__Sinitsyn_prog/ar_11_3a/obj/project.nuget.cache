@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pkS/3VbxXNO4pxKJmsGus6pW0fPgBp5TBwECHXwUTAl7q1ptdHOn+/frLsdnQeu3EvRmp5sKDxBT1dTIK3nugg==",
+  "dgSpecHash": "bwa0Stg9cTDE1+v0Rv1CzsFpOKEww4tVVD1Ep7234AqbkSs/xaxv4j8kLfBjS3TQZiuPedXXuhT9XND8J0viMQ==",
   "success": true,
-  "projectFilePath": "/home/max/C#/prog/array_11_3a_11_18a_12_71b__Sinitsyn_prog/ar_11_3a/ar_11_3a.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\learn_csharp\\prog\\array\\array_11_3a_11_18a_12_71b__Sinitsyn_prog\\ar_11_3a\\ar_11_3a.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

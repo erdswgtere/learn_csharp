@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ar_11_18a
-build_property.ProjectDir = /home/max/C#/prog/array_11_3a_11_18a_12_71b__Sinitsyn_prog/ar_11_18a/
+build_property.ProjectDir = C:\learn_csharp\prog\array\array_11_3a_11_18a_12_71b__Sinitsyn_prog\ar_11_18a\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
