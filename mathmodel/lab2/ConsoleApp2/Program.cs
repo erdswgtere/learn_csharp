@@ -24,7 +24,14 @@ namespace Mult_RND_test {
             Normal_gen nrmlgen = new Normal_gen(_N, _K);
             // получение случайных чисел
             for (int i = 0; i < _N; i++)
-                parValues[i] = nrmlgen.Normal(3,1); //для примера вставлен комбинированный генератор
+                parValues[i] = nrmlgen.Normal(2,1);
+        }
+        static void GenerateData_normalvar(out double[] parValues) {
+            parValues = new double[_N];
+            Normal_gen nrmlgen = new Normal_gen(_N, _K);
+            // получение случайных чисел
+            for (int i = 0; i < _N; i++)
+                parValues[i] = nrmlgen.Approximate();
         }
         /// <summary> Получить массивы оценок для плотности и функции
         /// pаспределения </summary>
@@ -50,19 +57,6 @@ namespace Mult_RND_test {
                 parDataFunc[i] = parDataFunc[i - 1] + parDataPlot[i];
             Console.WriteLine($"Кол-во элементов {parValues.Length}");
         }
-        /* static void MakeTheoryData(out double pt) {
-            int m = 3;
-            int d = 1;
-            double a = 0.05;
-            double[] parValuestest = new double[_K];
-            Normal_gen nrmlgentest = new Normal_gen(_N, _K);
-            parValuestest[i] = nrmlgentest.Normal(3, 1);
-            for (int i = 0; i < _K; i++) {
-                if (parValuestest[i] > 1.0 && parValuestest[i] < 5.0) {
-
-                }
-            }
-        } */
         /// <summary> Получить статистические оценки</summary> 
         /// <param name = "parValues"> Случайные числа
         /// <param name = "parMx"> Mатематическое ожидание</param>
@@ -94,7 +88,12 @@ namespace Mult_RND_test {
             _Y = _Mm - 5;
             _K = 15; // размер массива частот
             GenerateData(out values);
-            MakeData(values, out dataPlot, out dataFunc, 1.0, 4.8);
+            Console.WriteLine("Введите значения границ интервалов");
+            Console.Write("Введите левую границу отрезка: ");
+            double a1 = double.Parse(Console.ReadLine());
+            Console.Write("Введите правую границу отрезка: ");
+            double a2 = double.Parse(Console.ReadLine());
+            MakeData(values, out dataPlot, out dataFunc, a1, a2);
             for (int i = 0; i < 15; i++) {
                 Console.WriteLine($"{(dataPlot[i])} ");
             }
@@ -114,9 +113,23 @@ namespace Mult_RND_test {
             dismy.Diag_for_datafunc();
 
             Estimate(values, out double mx, out double dx);
-            Console.WriteLine();
-            
 
+            Console.WriteLine();
+            Console.WriteLine("Для генератора по варианту: ");
+            double[] valuesnorm, dataPlotnorm, dataFuncnorm;
+            GenerateData_normalvar(out valuesnorm);
+            Console.WriteLine("Введите значения границ интервалов");
+            Console.Write("Введите левую границу отрезка: ");
+            double b1 = double.Parse(Console.ReadLine());
+            Console.Write("Введите правую границу отрезка: ");
+            double b2 = double.Parse(Console.ReadLine());
+            MakeData(valuesnorm, out dataPlotnorm, out dataFuncnorm, b1, b2);
+            for (int i = 0; i < 15; i++) {
+                Console.WriteLine($"{(dataPlotnorm[i])} ");
+            }
+            Console.WriteLine($"Размерность {dataPlot.Length}");
+            Estimate(valuesnorm, out double mx1, out double dx1);
+            Console.WriteLine($"Критерий хи квадрата Пирсона: {xi2(dataPlotnorm, dataPlot, _K, _N)}");
             // обработка статистических параметров
 
         }
@@ -126,5 +139,5 @@ namespace Mult_RND_test {
 
 
 
-//MakeData(values, out dataPlot, out dataFunc, -2.5, 2.0);
-//MakeData(values, out dataPlot, out dataFunc, 1.0, 4.8);
+//MakeData(values, out dataPlot, out dataFunc, -2.5, 2.0); 13 вар аппроксимация (и 1 вар)
+//MakeData(values, out dataPlot, out dataFunc, 1.0, 4.8); 1 вар цпт
