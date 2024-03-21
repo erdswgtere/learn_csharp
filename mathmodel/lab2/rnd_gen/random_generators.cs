@@ -192,9 +192,7 @@
             Console.WriteLine("Моделирование завершено");
             Console.ReadLine();
         }
-        public double Normal(int M, int D) {
-            double m = M;
-            double d = D;
+        public double Normal(double M, double D) {
             Random random = new Random();
             double s, r;
             for (int i = 0; i < N; i++) {
@@ -204,7 +202,7 @@
                     s += r;
                 }
                 double x = s - 6;
-                x = m + x * Math.Sqrt(d);
+                x = M + x * Math.Sqrt(D);
                 return x;
             }
             return 0.0;
@@ -237,8 +235,34 @@
             }
 
         }
+        public double mars_mar(double M, double D) {
+            double m1 = M;
+            double d1 = D;
+            double m2 = M;
+            double d2 = D;
+            Random random = new Random();
+            double r1, r2, u1, u2, s, x, y;
+            int i = 0;
+            while (i < N) {
+                r1 = random.NextDouble();
+                r2 = random.NextDouble();
+                u1 = -1 + 2 * r1; u2 = -1 + 2 * r2;
+                s = u1 * u1 + u2 * u2;
+                if (s <= 1) {
+                    x = u1 * Math.Sqrt(-2 * Math.Log(s) / s);
+                    y = u2 * Math.Sqrt(-2 * Math.Log(s) / s);
+                    x = m1 + x * Math.Sqrt(d1);
+                    y = m2 + y * Math.Sqrt(d2);
+                    return x;
+                    i++;
+                }
+            }
+            return 0.0;
+
+        }
     }
 }
+
 
 
 

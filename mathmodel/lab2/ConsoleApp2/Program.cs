@@ -24,14 +24,14 @@ namespace Mult_RND_test {
             Normal_gen nrmlgen = new Normal_gen(_N, _K);
             // получение случайных чисел
             for (int i = 0; i < _N; i++)
-                parValues[i] = nrmlgen.Normal(2,1);
+                parValues[i] = nrmlgen.Normal(-4, 0.1);
         }
         static void GenerateData_normalvar(out double[] parValues) {
             parValues = new double[_N];
             Normal_gen nrmlgen = new Normal_gen(_N, _K);
             // получение случайных чисел
             for (int i = 0; i < _N; i++)
-                parValues[i] = nrmlgen.Approximate();
+                parValues[i] = nrmlgen.mars_mar(-4, 0.1);
         }
         /// <summary> Получить массивы оценок для плотности и функции
         /// pаспределения </summary>
@@ -141,3 +141,5 @@ namespace Mult_RND_test {
 
 //MakeData(values, out dataPlot, out dataFunc, -2.5, 2.0); 13 вар аппроксимация (и 1 вар)
 //MakeData(values, out dataPlot, out dataFunc, 1.0, 4.8); 1 вар цпт
+// -4,8 -3,2 (18 вар) цпт
+// -4,7 -3,2 (18 вар) по варианту 
