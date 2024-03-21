@@ -8,13 +8,13 @@ namespace dislin_my {
         public Dislin_my(ref double[] Chass, ref double[] Values, ref double[] Funcmas) {
             float[] floatChass = new float[Chass.Length];
             for (var i = 0; i < Chass.Length; ++i) {
-                floatChass[i] = (float)Chass[i] * 1000;
+                floatChass[i] = (float)Chass[i] * 800;
             }
 
             float[] floatValues = new float[Values.Length];
 
             for (var i = 0; i < Values.Length; ++i) {
-                floatValues[i] = (float)Values[i] * 100;
+                floatValues[i] = (float)Values[i] * 10;
             }
 
             float[] floatFuncmas = new float[Funcmas.Length];
@@ -43,10 +43,10 @@ namespace dislin_my {
             dislin.intax();
             dislin.axslen(1800, 1000);
             dislin.titlin(ctit, 1);
-            dislin.barwth(0.5f);
+            dislin.barwth(0.3f);
             dislin.barbor(490);
             dislin.legini(cbuf, 1, 25);
-            dislin.leglin(cbuf, "Lemer_generator", 1);
+            dislin.leglin(cbuf, "Normal_gen", 1);
             dislin.legtit(" ");
             dislin.shdpat(100);
             dislin.axspos(200, nya - 2 * 500);
@@ -79,7 +79,7 @@ namespace dislin_my {
             dislin.intax();
             dislin.axslen(1800, 1000);
             dislin.titlin(ctit, 1);
-            dislin.barwth(0.5f);
+            dislin.barwth(0.9f);
             dislin.barbor(89);
             dislin.legini(cbuf, 1, 25);
             dislin.leglin(cbuf, "raspred", 1);

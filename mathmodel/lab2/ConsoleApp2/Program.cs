@@ -19,10 +19,6 @@ namespace Mult_RND_test {
         /// </summary> 
         /// <param name = "parValues"> Mассив случайных
         /// чисел </param>
-        private static double Rnd() {
-            _Y = (_A * _Y) % _Mm;
-            return (double)_Y / _Mm;
-        }
         static void GenerateData(out double[] parValues) {
             parValues = new double[_N];
             Normal_gen nrmlgen = new Normal_gen(_N, _K);
@@ -54,6 +50,19 @@ namespace Mult_RND_test {
                 parDataFunc[i] = parDataFunc[i - 1] + parDataPlot[i];
             Console.WriteLine($"Кол-во элементов {parValues.Length}");
         }
+        /* static void MakeTheoryData(out double pt) {
+            int m = 3;
+            int d = 1;
+            double a = 0.05;
+            double[] parValuestest = new double[_K];
+            Normal_gen nrmlgentest = new Normal_gen(_N, _K);
+            parValuestest[i] = nrmlgentest.Normal(3, 1);
+            for (int i = 0; i < _K; i++) {
+                if (parValuestest[i] > 1.0 && parValuestest[i] < 5.0) {
+
+                }
+            }
+        } */
         /// <summary> Получить статистические оценки</summary> 
         /// <param name = "parValues"> Случайные числа
         /// <param name = "parMx"> Mатематическое ожидание</param>
@@ -70,6 +79,12 @@ namespace Mult_RND_test {
             parS2 = (m2 - parMx * parMx) * _N / (_N - 1);
             Console.WriteLine($"мат. ожидание = {parMx}, дисперсия = {parS2}");
         }
+       static double xi2(double[] hst, double[] pt, int k, long n) {
+            double xi = 0.0;
+            for (int i = 0; i < k; i++)
+                xi += Math.Pow(hst[i] - n * pt[i], 2) / (n * pt[i]);
+            return xi;
+        }
         /// <summary> Основная программа </summary>
         /// <param name = "args"> Аргументы </param> 
         static void Main(string[] args) {
@@ -79,14 +94,14 @@ namespace Mult_RND_test {
             _Y = _Mm - 5;
             _K = 15; // размер массива частот
             GenerateData(out values);
-            MakeData(values, out dataPlot, out dataFunc, 0.0, 1.0);
+            MakeData(values, out dataPlot, out dataFunc, 1.0, 4.8);
             for (int i = 0; i < 15; i++) {
-                Console.WriteLine($"{(dataPlot[i]  )} ");
+                Console.WriteLine($"{(dataPlot[i])} ");
             }
             Console.WriteLine($"Размерность {dataPlot.Length}");
             Console.WriteLine();
             for (int i = 0; i < 15; i++) {
-                Console.WriteLine($"{values[i] } ");
+                Console.WriteLine($"{values[i]} ");
             }
             Console.WriteLine();
             for (int i = 0; i < 15; i++) {
@@ -95,16 +110,21 @@ namespace Mult_RND_test {
             //... построение гистограммы частот и 
             // статистической функции распределения
 
-
             Dislin_my dismy = new Dislin_my(ref dataPlot, ref values, ref dataFunc);
-            dismy.Diag();
             dismy.Diag_for_datafunc();
 
             Estimate(values, out double mx, out double dx);
             Console.WriteLine();
+            
 
             // обработка статистических параметров
 
         }
     }
-}  
+}
+
+
+
+
+//MakeData(values, out dataPlot, out dataFunc, -2.5, 2.0);
+//MakeData(values, out dataPlot, out dataFunc, 1.0, 4.8);
