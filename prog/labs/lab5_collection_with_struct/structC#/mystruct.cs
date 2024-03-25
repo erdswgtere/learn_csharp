@@ -32,7 +32,7 @@ namespace Health_and_Medicine {
         public void input_in_base() {
             for (int i = 0; i < n; i++) {
                 Console.Write($"Введите адрес аптеки №{i + 1}: ");
-                string apt = Console.ReadLine()!;
+                string apt_adr = Console.ReadLine()!;
                 Console.Write($"Введите кол-во лекарств в аптеке №{i + 1}: ");
                 int kol = int.Parse(Console.ReadLine()!);
                 List<Medicine> medicines = new List<Medicine>();
@@ -47,7 +47,7 @@ namespace Health_and_Medicine {
                     medicines.Add(leks);
                     Console.WriteLine("#########");
                 }
-                HealthBase.Add(apt, medicines);
+                HealthBase.Add(apt_adr, medicines);
                 Console.WriteLine();
                 Console.WriteLine();
             }

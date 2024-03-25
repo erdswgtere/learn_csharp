@@ -87,8 +87,8 @@ namespace var_19_La6a
             bool removedFromList = furnitureList.RemoveAll(f => f.FurnitureCode == furnitureCode) > 0;
             bool removedFromQueue = false;
             bool removedFromLinkedList = false;
-
             if (removedFromList)
+
             {
                 while (furnitureQueue.Count > 0)
                 {
