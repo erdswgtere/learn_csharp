@@ -1,7 +1,10 @@
-﻿namespace ConsoleApp1 {
+﻿using prr2;
+
+namespace ConsoleApp1 {
     internal class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Hello, World!");
+            Firma frm = new Firma();
+            frm.Otedl_1
         }
     }
 }
