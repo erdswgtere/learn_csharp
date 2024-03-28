@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="35cm" height="27cm" viewBox="355 111 694 521" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="384" y="113" width="148.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="384" y="113" width="148.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="458.3" y="132">Firma</text>
+    <rect style="fill: #ffffff" x="384" y="141" width="148.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="384" y="141" width="148.6" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="387.5" y="155">-Name_firm: string</text>
+    <rect style="fill: #ffffff" x="384" y="161" width="148.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="384" y="161" width="148.6" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="380.15" y="251.874" width="156.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="380.15" y="251.874" width="156.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="458.3" y="270.874">Otedl_1</text>
+    <rect style="fill: #ffffff" x="380.15" y="279.874" width="156.3" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="380.15" y="279.874" width="156.3" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="383.65" y="293.874">-Kol_sotr: int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="383.65" y="309.874">-Name_otdel: string</text>
+    <rect style="fill: #ffffff" x="380.15" y="315.874" width="156.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="380.15" y="315.874" width="156.3" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="357.05" y="373.03" width="202.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="357.05" y="373.03" width="202.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="458.3" y="392.03">Sotr</text>
+    <rect style="fill: #ffffff" x="357.05" y="401.03" width="202.5" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="357.05" y="401.03" width="202.5" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="360.55" y="415.03">+Fullname: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="360.55" y="431.03">+Oklad: int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="360.55" y="447.03">+Place_in_ierachy: string</text>
+    <rect style="fill: #ffffff" x="357.05" y="453.03" width="202.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="357.05" y="453.03" width="202.5" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="360.55" y="467.03">+Raschet(): double</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="384" y="562.388" width="148.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="384" y="562.388" width="148.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="458.3" y="581.388">Класс</text>
+    <rect style="fill: #ffffff" x="384" y="590.388" width="148.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="384" y="590.388" width="148.6" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="387.5" y="604.388">+Prem: int</text>
+    <rect style="fill: #ffffff" x="384" y="610.388" width="148.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="384" y="610.388" width="148.6" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="387.5" y="624.388">+Raschet(): double</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="669.842" y="232.75" width="172.5" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="669.842" y="232.75" width="172.5" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="756.092" y="248.75">&lt;&lt;Exception&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="756.092" y="267.75">PremiyaException</text>
+    <rect style="fill: #ffffff" x="669.842" y="276.75" width="172.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="669.842" y="276.75" width="172.5" height="8"/>
+    <rect style="fill: #ffffff" x="669.842" y="284.75" width="172.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="669.842" y="284.75" width="172.5" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="673.342" y="298.75">+PremiyaException()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="897.376" y="122.134" width="150.6" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="897.376" y="122.134" width="150.6" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="972.676" y="138.134">&lt;&lt;Exception&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="972.676" y="157.134">OkladException</text>
+    <rect style="fill: #ffffff" x="897.376" y="166.134" width="150.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="897.376" y="166.134" width="150.6" height="8"/>
+    <rect style="fill: #ffffff" x="897.376" y="174.134" width="150.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="897.376" y="174.134" width="150.6" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="900.876" y="188.134">+OkladException()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="681.946" y="117.865" width="149.95" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="681.946" y="117.865" width="149.95" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="756.921" y="133.865">&lt;&lt;Exception&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="756.921" y="152.865">LaborException</text>
+    <rect style="fill: #ffffff" x="681.946" y="161.865" width="149.95" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="681.946" y="161.865" width="149.95" height="8"/>
+    <rect style="fill: #ffffff" x="681.946" y="169.865" width="149.95" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="681.946" y="169.865" width="149.95" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="685.446" y="183.865">+LaborException()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.3,232.129 458.3,233.365 458.3,170 458.3,169 "/>
+    <polygon style="fill: #ffffff" points="450.3,232.129 458.3,248.129 466.3,232.129 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="450.3,232.129 458.3,248.129 466.3,232.129 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.3,353.288 458.3,354.524 458.3,324.874 458.3,323.874 "/>
+    <polygon style="fill: #ffffff" points="450.3,353.288 458.3,369.288 466.3,353.288 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="450.3,353.288 458.3,369.288 466.3,353.288 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.3,542.643 458.3,543.879 458.3,474.03 458.3,473.03 "/>
+    <polygon style="fill: #ffffff" points="450.3,542.643 458.3,558.643 466.3,542.643 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="450.3,542.643 458.3,558.643 466.3,542.643 "/>
+  </g>
+</svg>
