@@ -80,18 +80,18 @@
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="685.446" y="183.865">+LaborException()</text>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.3,232.129 458.3,233.365 458.3,170 458.3,169 "/>
-    <polygon style="fill: #ffffff" points="450.3,232.129 458.3,248.129 466.3,232.129 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="450.3,232.129 458.3,248.129 466.3,232.129 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.3,188.743 458.3,187.507 458.3,250.874 458.3,251.874 "/>
+    <polygon style="fill: #ffffff" points="466.3,188.743 458.3,172.743 450.3,188.743 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="466.3,188.743 458.3,172.743 450.3,188.743 "/>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.3,353.288 458.3,354.524 458.3,324.874 458.3,323.874 "/>
-    <polygon style="fill: #ffffff" points="450.3,353.288 458.3,369.288 466.3,353.288 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="450.3,353.288 458.3,369.288 466.3,353.288 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.3,342.11 458.3,340.874 458.3,370.524 458.3,371.524 "/>
+    <polygon style="fill: #ffffff" points="466.3,342.11 458.3,326.11 450.3,342.11 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="466.3,342.11 458.3,326.11 450.3,342.11 "/>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.3,542.643 458.3,543.879 458.3,474.03 458.3,473.03 "/>
-    <polygon style="fill: #ffffff" points="450.3,542.643 458.3,558.643 466.3,542.643 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="450.3,542.643 458.3,558.643 466.3,542.643 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="458.3,491.266 458.3,490.03 458.3,561.388 458.3,562.388 "/>
+    <polygon style="fill: #ffffff" points="466.3,491.266 458.3,475.266 450.3,491.266 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="466.3,491.266 458.3,475.266 450.3,491.266 "/>
   </g>
 </svg>
