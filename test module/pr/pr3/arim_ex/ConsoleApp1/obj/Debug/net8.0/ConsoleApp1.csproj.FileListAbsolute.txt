@@ -1,0 +1,15 @@
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\learn_csharp\test module\pr\pr3\arim_ex\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
