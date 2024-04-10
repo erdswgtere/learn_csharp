@@ -2,8 +2,8 @@
 
 namespace createtextfile {
     internal class Program {
-        const string inputfile = "Input.txt";
-        const string outputfile = "Output.txt";
+        const string inputfile = "Input";
+        const string outputfile = "Output";
         static void Main(string[] args) {
 
             if (File.Exists(inputfile)) {
@@ -15,24 +15,30 @@ namespace createtextfile {
             Console.Write("Введите сколько дат вы хотите ввести: ");
             int n = int.Parse(Console.ReadLine()!);
             for (int i = 0; i < n; i++) {
-                Console.Write("Дата(в формате дд/мм/гггг слитно, знак / используется как разделитель): ");
-                DateTime dt1 = DateTime.ParseExact(Console.ReadLine()!, "dd/MM/yyyy", CultureInfo.InvariantCulture);
+                Console.Write("Дата(в формате дд.мм.гггг слитно, знак . используется как разделитель): ");
+                DateTime dt1 = DateTime.ParseExact(Console.ReadLine()!, "dd.MM.yyyy", CultureInfo.InvariantCulture);
                 sw.WriteLine(dt1.ToShortDateString());
             }
             sw.Close();
 
             StreamReader sr = File.OpenText(inputfile);
-            StreamWriter sw_out = File.CreateText(outputfile);
-            string str_f = sr;
+            string str_f = sr.ReadLine()!;
+            DateTime dt_outf = DateTime.ParseExact(str_f, "dd.MM.yyyy", CultureInfo.InvariantCulture);
             while (true) {
                 string str = sr.ReadLine()!;
-                DateTime dt_out = DateTime.ParseExact(str!, "dd/MM/yyyy", CultureInfo.InvariantCulture);
-                DateTime dt_outf = DateTime.ParseExact(str_f!, "dd/MM/yyyy", CultureInfo.InvariantCulture);
-                sw_out.WriteLine(str);
+                if(str!= null) {
+                    DateTime dt_out = DateTime.ParseExact(str, "dd.MM.yyyy", CultureInfo.InvariantCulture);
+                    if (dt_out > dt_outf) {
+                        dt_outf = dt_out;
+                    }
+                }
                 if (str == null) break;
-                Console.WriteLine(str);
+                
             }
             sr.Close();
+            StreamWriter sw_out = File.CreateText(outputfile);
+            Console.WriteLine(dt_outf.ToShortDateString());
+            sw_out.WriteLine(dt_outf.ToShortDateString());
             sw_out.Close();
         }
     }
