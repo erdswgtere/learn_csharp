@@ -1,0 +1,30 @@
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\bin\Debug\net8.0\createtextfile.exe
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\bin\Debug\net8.0\createtextfile.deps.json
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\bin\Debug\net8.0\createtextfile.runtimeconfig.json
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\bin\Debug\net8.0\createtextfile.dll
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\bin\Debug\net8.0\createtextfile.pdb
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.AssemblyInfoInputs.cache
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.AssemblyInfo.cs
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.csproj.CoreCompileInputs.cache
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.sourcelink.json
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.dll
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\obj\Debug\net8.0\refint\createtextfile.dll
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.pdb
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.genruntimeconfig.cache
+C:\learn_csharp\test module\pr\pr3\createtextfile\createtextfile\obj\Debug\net8.0\ref\createtextfile.dll
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\bin\Debug\net8.0\createtextfile.exe
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\bin\Debug\net8.0\createtextfile.deps.json
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\bin\Debug\net8.0\createtextfile.runtimeconfig.json
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\bin\Debug\net8.0\createtextfile.dll
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\bin\Debug\net8.0\createtextfile.pdb
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.AssemblyInfoInputs.cache
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.AssemblyInfo.cs
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.csproj.CoreCompileInputs.cache
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.sourcelink.json
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.dll
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\obj\Debug\net8.0\refint\createtextfile.dll
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.pdb
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\obj\Debug\net8.0\createtextfile.genruntimeconfig.cache
+C:\learn_csharp\prog\labs\lab6_filecreate\createtextfile\createtextfile\obj\Debug\net8.0\ref\createtextfile.dll

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("structC#")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("createtextfile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+474d9136e105ef76750b5ad1eac92a1747d4be49")]
-[assembly: System.Reflection.AssemblyProductAttribute("structC#")]
-[assembly: System.Reflection.AssemblyTitleAttribute("structC#")]
+[assembly: System.Reflection.AssemblyProductAttribute("createtextfile")]
+[assembly: System.Reflection.AssemblyTitleAttribute("createtextfile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
