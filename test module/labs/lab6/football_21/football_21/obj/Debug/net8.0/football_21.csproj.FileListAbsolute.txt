@@ -1,0 +1,15 @@
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\bin\Debug\net8.0\football_21.exe
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\bin\Debug\net8.0\football_21.deps.json
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\bin\Debug\net8.0\football_21.runtimeconfig.json
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\bin\Debug\net8.0\football_21.dll
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\bin\Debug\net8.0\football_21.pdb
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\obj\Debug\net8.0\football_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\obj\Debug\net8.0\football_21.AssemblyInfoInputs.cache
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\obj\Debug\net8.0\football_21.AssemblyInfo.cs
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\obj\Debug\net8.0\football_21.csproj.CoreCompileInputs.cache
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\obj\Debug\net8.0\football_21.sourcelink.json
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\obj\Debug\net8.0\football_21.dll
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\obj\Debug\net8.0\refint\football_21.dll
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\obj\Debug\net8.0\football_21.pdb
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\obj\Debug\net8.0\football_21.genruntimeconfig.cache
+C:\learn_csharp\test module\labs\lab6\football_21\football_21\obj\Debug\net8.0\ref\football_21.dll
