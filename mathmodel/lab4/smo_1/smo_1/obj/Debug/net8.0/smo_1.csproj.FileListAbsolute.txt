@@ -1,0 +1,15 @@
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\bin\Debug\net8.0\smo_1.exe
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\bin\Debug\net8.0\smo_1.deps.json
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\bin\Debug\net8.0\smo_1.runtimeconfig.json
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\bin\Debug\net8.0\smo_1.dll
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\bin\Debug\net8.0\smo_1.pdb
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\obj\Debug\net8.0\smo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\obj\Debug\net8.0\smo_1.AssemblyInfoInputs.cache
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\obj\Debug\net8.0\smo_1.AssemblyInfo.cs
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\obj\Debug\net8.0\smo_1.csproj.CoreCompileInputs.cache
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\obj\Debug\net8.0\smo_1.sourcelink.json
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\obj\Debug\net8.0\smo_1.dll
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\obj\Debug\net8.0\refint\smo_1.dll
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\obj\Debug\net8.0\smo_1.pdb
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\obj\Debug\net8.0\smo_1.genruntimeconfig.cache
+C:\learn_csharp\mathmodel\lab4\smo_1\smo_1\obj\Debug\net8.0\ref\smo_1.dll
