@@ -3,6 +3,7 @@
         static void Main() {
             StreamWriter sw = null!;
             string path;
+            
             try {
                 Console.Write("Введите полный путь для создания файла с записанной информацией: ");
                 path = Console.ReadLine()!;
@@ -10,31 +11,31 @@
                 Console.Write("Введите кол-во футболистов информацию о которых хотите записать в файл: ");
                 int n = int.Parse(Console.ReadLine()!);
                 for (int i = 0; i < n; i++) {
-                    sw.WriteLine($"Футболист№ {i + 1}:");
+                    sw.Write($"Футболист№{i + 1}:");
                     Console.Write("Фамилия: ");
-                    sw.Write(" Фамилия: {0};", Console.ReadLine());
+                    sw.Write("Фамилия: {0}", Console.ReadLine());
                     Console.Write("Имя: ");
-                    sw.Write(" Имя: {0};", Console.ReadLine());
+                    sw.Write(" Имя: {0}", Console.ReadLine());
                     Console.Write("Отчество: ");
-                    sw.Write(" Отчество:{0};", Console.ReadLine());
+                    sw.Write(" Отчество:{0}", Console.ReadLine());
                     Console.Write("Рост: ");
-                    sw.Write(" Рост: {0};", Console.ReadLine());
+                    sw.Write(" Рост: {0}", Console.ReadLine());
                     Console.Write("Вес: ");
-                    sw.Write(" Вес: {0};", Console.ReadLine());
+                    sw.Write(" Вес: {0}", Console.ReadLine());
                     Console.Write("Дата рождения: ");
-                    sw.Write(" Дата рождения: {0};", Console.ReadLine());
+                    sw.Write(" Дата рождения: {0}", Console.ReadLine());
                     Console.Write("Номер телефона: ");
-                    sw.Write(" Номер телефона: {0};", Console.ReadLine());
+                    sw.Write(" Номер телефона: {0}", Console.ReadLine());
                     Console.Write("Название команды: ");
-                    sw.Write(" Название команды: {0};", Console.ReadLine());
+                    sw.Write(" Название команды: {0}", Console.ReadLine());
                     Console.Write("Номер в команде: ");
-                    sw.Write(" Номер в команде: {0};", Console.ReadLine());
+                    sw.Write(" Номер в команде: {0}", Console.ReadLine());
                     Console.Write("Амплуа: ");
                     sw.Write(" Амплуа:{0};", Console.ReadLine());
                     Console.Write("Результативность: ");
-                    sw.Write(" Результативность: {0};", Console.ReadLine());
+                    sw.Write(" Результативность: {0}", Console.ReadLine());
                     Console.Write("Количество игр: ");
-                    sw.Write(" Количество игр: {0};", Console.ReadLine());
+                    sw.Write(" Количество игр: {0}", Console.ReadLine());
                     sw.WriteLine();
                 }
             }
@@ -65,20 +66,20 @@
             finally {
                 sw.Close();
             }
-
-            // Блок try для обработки файла
             try {
+                
                 Console.Write("Введите полный путь для создания файла с необходимой для вывода информацией: ");
                 string path2 = Console.ReadLine()!;
                 sw = File.CreateText(path2);
-                string word;
-                string[] peopleCount;
+                string[] playCount;
                 foreach (string line in File.ReadLines(path)) {
-                    word = line;
-                    peopleCount = word.Split(" ");
-                    if (Convert.ToUInt32(peopleCount[7]) > 50) {
-                        Console.WriteLine(word);
-                        sw.WriteLine(word);
+                    playCount = line.Split(" ");
+                    foreach (string l in playCount) {
+                        Console.WriteLine(l);
+                    }
+                    if (Convert.ToUInt32(playCount[27]) > 50) {
+                        Console.WriteLine(line);
+                        sw.WriteLine(line);
                     }
                 }
                 /* Console.Write("Введите полный путь для создания файла с необходимой для вывода информацией: ");
