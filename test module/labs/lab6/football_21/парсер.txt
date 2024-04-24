@@ -1,0 +1,25 @@
+  /* Console.Write("Введите полный путь для создания файла с необходимой для вывода информацией: ");
+   string path2 = Console.ReadLine()!;
+   sw = File.CreateText(path2);
+   string word;
+   string[] playCount;
+   foreach (string line in File.ReadLines(path)) {
+       word = line;
+       playCount = word.Split(" ");
+       foreach (string play in playCount) {
+           if (play.Contains("Количество игр")) {
+               // Получаем количество игр футболиста
+               string[] parts = line.Split(':');
+               int games = int.Parse(parts[1].Trim());
+               if (games > 50) {
+                   // Создаем новый файл для записи
+                   sw.WriteLine("Футболист с более чем 50 играми:");
+                   sw.Write(line); // Записываем информацию о футболисте
+                                   // Продолжаем чтение и запись остальной информации о футболисте
+                   for (int i = 0; i < 11; i++) {
+                       sw.WriteLine(word);
+                   }
+               }
+           }
+       }
+   }*/

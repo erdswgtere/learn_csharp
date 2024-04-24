@@ -13,7 +13,6 @@
     static int NServe;
 
     public static void Input_thread() {
-        double Zmax = Math.Round(lambda / (mu - lambda));
         Console.WriteLine("ВСЕ ВНУТРЕННИЕ ПРОЦЕССЫ ДАННОЙ МОДЕЛИ СЧИТАЮТСЯ В МИНУТАХ!!!");
         Console.WriteLine("Максимальное кол-во обслуживаемых заявок: {0}", (int)Zmax);
         Console.Write("Введите время моделирования в минутах: ");
@@ -56,18 +55,18 @@
     }
     public static void Output_info() {
         double timeWait = 0;
-            double timeSys = 0;
-            double timeWork = 0;
-            for(int i=0; i < NServe; i++) {
-                timeWait += (Z_begin[i] - z_arrive[i]);
-                timeSys += (Z_end[i] - z_arrive[i]);
-                timeWork += z_serve[i];
-            }
-            Console.WriteLine("Число поступивших заявок: {0}", Nin);
-            Console.WriteLine("Число обслуженных заявок: {0}", NServe);
-            Console.WriteLine("Среднее время ожидания в очереди: {0:f4}", (double)timeWait / NServe);
-            Console.WriteLine("Среднее время пребывания в системе: {0:f4}", (double)timeSys / NServe);
-            Console.WriteLine("Коэффициент использования СМО: {0:f4}", (double)timeWork / timeEnd);
+        double timeSys = 0;
+        double timeWork = 0;
+        for (int i = 0; i < NServe; i++) {
+            timeWait += (Z_begin[i] - z_arrive[i]);
+            timeSys += (Z_end[i] - z_arrive[i]);
+            timeWork += z_serve[i];
+        }
+        Console.WriteLine("Число поступивших заявок: {0}", Nin);
+        Console.WriteLine("Число обслуженных заявок: {0}", NServe);
+        Console.WriteLine("Среднее время ожидания в очереди: {0:f4}", (double)timeWait / NServe);
+        Console.WriteLine("Среднее время пребывания в системе: {0:f4}", (double)timeSys / NServe);
+        Console.WriteLine("Коэффициент использования СМО: {0:f4}", (double)timeWork / timeEnd);
     }
     static double rnd_expo(double lambda) {
         Random rand = new Random();
