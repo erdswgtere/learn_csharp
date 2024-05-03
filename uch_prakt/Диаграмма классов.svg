@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="32cm" height="15cm" viewBox="185 80 624 292" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="187" y="91" width="187.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="187" y="91" width="187.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="280.55" y="110">Person</text>
+    <rect style="fill: #ffffff" x="187" y="119" width="187.1" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="187" y="119" width="187.1" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="190.5" y="133">-Address: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="190.5" y="149">-FIO: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="190.5" y="165">-PassportNumber: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="190.5" y="181">-PassportSeries: string</text>
+    <rect style="fill: #ffffff" x="187" y="187" width="187.1" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="187" y="187" width="187.1" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="190.5" y="201">+Person()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="195.054" y="286.406" width="171.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="195.054" y="286.406" width="171.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="280.904" y="305.406">Client</text>
+    <rect style="fill: #ffffff" x="195.054" y="314.406" width="171.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="195.054" y="314.406" width="171.7" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="198.554" y="328.406">-number_of_room: int</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="198.554" y="344.406">-room_has_given: bool</text>
+    <rect style="fill: #ffffff" x="195.054" y="350.406" width="171.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="195.054" y="350.406" width="171.7" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="198.554" y="364.406">+Client()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="513.865" y="85.8921" width="124.95" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="513.865" y="85.8921" width="124.95" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="576.34" y="104.892">MyException</text>
+    <rect style="fill: #ffffff" x="513.865" y="113.892" width="124.95" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="513.865" y="113.892" width="124.95" height="8"/>
+    <rect style="fill: #ffffff" x="513.865" y="121.892" width="124.95" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="513.865" y="121.892" width="124.95" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="517.365" y="135.892">+MyException()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="492.027" y="242.757" width="210.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="492.027" y="242.757" width="210.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="597.127" y="261.757">Registration</text>
+    <rect style="fill: #ffffff" x="492.027" y="270.757" width="210.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="492.027" y="270.757" width="210.2" height="8"/>
+    <rect style="fill: #ffffff" x="492.027" y="278.757" width="210.2" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="492.027" y="278.757" width="210.2" height="84"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="495.527" y="292.757">+ClientInformation(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="495.527" y="308.757">+ClientSorting(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="495.527" y="324.757">+info(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="495.527" y="340.757">+NewClient(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="495.527" y="356.757">+Selection(): void</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="719.811" y="81.9187" width="87.45" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="719.811" y="81.9187" width="87.45" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="763.536" y="100.919">Program</text>
+    <rect style="fill: #ffffff" x="719.811" y="109.919" width="87.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="719.811" y="109.919" width="87.45" height="8"/>
+    <rect style="fill: #ffffff" x="719.811" y="117.919" width="87.45" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="719.811" y="117.919" width="87.45" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="723.311" y="131.919">-Main()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="280.55,226.743 280.55,255.456 280.904,255.456 280.904,286.406 "/>
+    <polygon style="fill: #ffffff" points="288.55,226.743 280.55,210.743 272.55,226.743 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="288.55,226.743 280.55,210.743 272.55,226.743 "/>
+  </g>
+</svg>
