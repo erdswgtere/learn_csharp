@@ -1,0 +1,15 @@
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\bin\Debug\net8.0\Auto_reg.exe
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\bin\Debug\net8.0\Auto_reg.deps.json
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\bin\Debug\net8.0\Auto_reg.runtimeconfig.json
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\bin\Debug\net8.0\Auto_reg.dll
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\bin\Debug\net8.0\Auto_reg.pdb
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\obj\Debug\net8.0\Auto_reg.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\obj\Debug\net8.0\Auto_reg.AssemblyInfoInputs.cache
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\obj\Debug\net8.0\Auto_reg.AssemblyInfo.cs
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\obj\Debug\net8.0\Auto_reg.csproj.CoreCompileInputs.cache
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\obj\Debug\net8.0\Auto_reg.sourcelink.json
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\obj\Debug\net8.0\Auto_reg.dll
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\obj\Debug\net8.0\refint\Auto_reg.dll
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\obj\Debug\net8.0\Auto_reg.pdb
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\obj\Debug\net8.0\Auto_reg.genruntimeconfig.cache
+C:\learn_csharp\uch_prakt\Auto_reg\Auto_reg\obj\Debug\net8.0\ref\Auto_reg.dll

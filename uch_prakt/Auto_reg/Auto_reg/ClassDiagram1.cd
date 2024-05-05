@@ -1,38 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Person">
-    <Position X="6.75" Y="0.5" Width="1.5" />
+    <Position X="7" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AgAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAIA=</HashCode>
       <FileName>abstract person.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Client">
-    <Position X="6.75" Y="3.75" Width="1.5" />
+    <Position X="9.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAEAAAABAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAEAAAABAAAAAAAAAAAA=</HashCode>
       <FileName>Client.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="MyException">
-    <Position X="9.5" Y="0.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Exception.cs</FileName>
+      <NewMemberFileName>Exception.cs</NewMemberFileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Registration">
-    <Position X="9.5" Y="2.25" Width="1.5" />
+    <Position X="9.75" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAADAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAEAAQAA=</HashCode>
+      <HashCode>AAADAAAAAAAAAAAAAACAAAAAAAAAAAIAAAAAAEAAQAA=</HashCode>
       <FileName>Registration.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Auto_reg.Program">
-    <Position X="11.25" Y="0.5" Width="1.5" />
+    <Position X="11.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checkings">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAgCAAAIA=</HashCode>
+      <FileName>Exception.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
