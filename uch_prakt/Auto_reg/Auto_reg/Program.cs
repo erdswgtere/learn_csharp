@@ -1,5 +1,5 @@
 ﻿using System.Text;
-
+using Registration_proccess;
 namespace Auto_reg {
     internal class Program {
         static void Main(string[] args) {
@@ -8,7 +8,7 @@ namespace Auto_reg {
             Console.OutputEncoding = Encoding.UTF8;
             Console.InputEncoding = enc1251;
 
-            Registration.Info();
+            Registration.AllInfo();
         }
     }
 }
