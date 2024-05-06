@@ -43,8 +43,8 @@
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="33.3642" y="159.892">+RegException()</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="470.026" y="96.7561" width="148.6" height="28"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="470.026" y="96.7561" width="148.6" height="28"/>
+    <rect style="fill: #ffffff" x="470.026" y="96.756" width="148.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="470.026" y="96.756" width="148.6" height="28"/>
     <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="544.326" y="115.756">Registration</text>
     <rect style="fill: #ffffff" x="470.026" y="124.756" width="148.6" height="8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="470.026" y="124.756" width="148.6" height="8"/>
@@ -54,14 +54,14 @@
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="473.526" y="162.756">+Selection(): void</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="548.812" y="-56.0811" width="87.45" height="28"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="548.812" y="-56.0811" width="87.45" height="28"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="592.537" y="-37.0811">Program</text>
-    <rect style="fill: #ffffff" x="548.812" y="-28.0811" width="87.45" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="548.812" y="-28.0811" width="87.45" height="8"/>
-    <rect style="fill: #ffffff" x="548.812" y="-20.0811" width="87.45" height="20"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="548.812" y="-20.0811" width="87.45" height="20"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="552.312" y="-6.08115">-Main()</text>
+    <rect style="fill: #ffffff" x="548.812" y="-56.0812" width="87.45" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="548.812" y="-56.0812" width="87.45" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="592.537" y="-37.0812">Program</text>
+    <rect style="fill: #ffffff" x="548.812" y="-28.0812" width="87.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="548.812" y="-28.0812" width="87.45" height="8"/>
+    <rect style="fill: #ffffff" x="548.812" y="-20.0812" width="87.45" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="548.812" y="-20.0812" width="87.45" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="552.312" y="-6.0812">-Main()</text>
   </g>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="280.55,226.743 280.55,255.457 280.904,255.457 280.904,286.406 "/>
@@ -69,52 +69,52 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="288.55,226.743 280.55,210.743 272.55,226.743 "/>
   </g>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="544.326" y1="96.7561" x2="544.2" y2="51.9173"/>
-    <ellipse style="fill: #ffffff" cx="544.22" cy="58.9173" rx="7" ry="7"/>
-    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="544.22" cy="58.9173" rx="7" ry="7"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="538.2" y="51.9173">IAllRegistration</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="544.326" y1="96.756" x2="544.2" y2="51.9174"/>
+    <ellipse style="fill: #ffffff" cx="544.22" cy="58.9174" rx="7" ry="7"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="544.22" cy="58.9174" rx="7" ry="7"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="538.2" y="51.9174">IAllRegistration</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="487.185" y="311.279" width="125.5" height="28"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="487.185" y="311.279" width="125.5" height="28"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="549.935" y="330.279">Chekings</text>
-    <rect style="fill: #ffffff" x="487.185" y="339.279" width="125.5" height="84"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="487.185" y="339.279" width="125.5" height="84"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="490.685" y="353.279">+AddressCheck</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="490.685" y="369.279">+FIOCheck</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="490.685" y="385.279">+NumroomCheck</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="490.685" y="401.279">+PassportNumber</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="490.685" y="417.279">+PassportSeries</text>
-    <rect style="fill: #ffffff" x="487.185" y="423.279" width="125.5" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="487.185" y="423.279" width="125.5" height="8"/>
+    <rect style="fill: #ffffff" x="487.186" y="311.28" width="187.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="487.186" y="311.28" width="187.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="580.736" y="330.28">Chekings</text>
+    <rect style="fill: #ffffff" x="487.186" y="339.28" width="187.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="487.186" y="339.28" width="187.1" height="8"/>
+    <rect style="fill: #ffffff" x="487.186" y="347.28" width="187.1" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="487.186" y="347.28" width="187.1" height="84"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="490.686" y="361.28">+AddressCheck(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="490.686" y="377.28">+FIOCheck(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="490.686" y="393.28">+NumroomCheck(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="490.686" y="409.28">+PassportNumber(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="490.686" y="425.28">+PassportSeries(): void</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="706.185" y="284.279" width="210.2" height="28"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="706.185" y="284.279" width="210.2" height="28"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="811.285" y="303.279">RegUtils</text>
-    <rect style="fill: #ffffff" x="706.185" y="312.279" width="210.2" height="20"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="706.185" y="312.279" width="210.2" height="20"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.685" y="326.279">+Swclassmain: Streamwriter</text>
-    <rect style="fill: #ffffff" x="706.185" y="332.279" width="210.2" height="116"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="706.185" y="332.279" width="210.2" height="116"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.685" y="346.279">+ApprovedRoom()</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.685" y="362.279">+ClientInformation()</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.685" y="378.279">+ClientSorting()</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.685" y="394.279">+GiveNumOfRoom()</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.685" y="410.279">+NewClient()</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.685" y="426.279">+OneClientInf()</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.685" y="442.279">+RemoveClient()</text>
+    <rect style="fill: #ffffff" x="706.184" y="284.28" width="210.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="706.184" y="284.28" width="210.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="811.284" y="303.28">RegUtils</text>
+    <rect style="fill: #ffffff" x="706.184" y="312.28" width="210.2" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="706.184" y="312.28" width="210.2" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.684" y="326.28">+Swclassmain: Streamwriter</text>
+    <rect style="fill: #ffffff" x="706.184" y="332.28" width="210.2" height="116"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="706.184" y="332.28" width="210.2" height="116"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.684" y="346.28">+ApprovedRoom(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.684" y="362.28">+ClientInformation(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.684" y="378.28">+ClientSorting(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.684" y="394.28">+GiveNumOfRoom(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.684" y="410.28">+NewClient(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.684" y="426.28">+OneClientInf(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="709.684" y="442.28">+RemoveClient()</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="705.185" y="95.2792" width="150.85" height="42"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="705.185" y="95.2792" width="150.85" height="42"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="780.61" y="114.279">IAllRegistration</text>
-    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="780.61" y="129.779">Interface</text>
-    <rect style="fill: #ffffff" x="705.185" y="137.279" width="150.85" height="8"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="705.185" y="137.279" width="150.85" height="8"/>
-    <rect style="fill: #ffffff" x="705.185" y="145.279" width="150.85" height="36"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="705.185" y="145.279" width="150.85" height="36"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="708.685" y="159.279">+Allinfo()</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="708.685" y="175.279">+Selection()</text>
+    <rect style="fill: #ffffff" x="705.184" y="95.2792" width="150.85" height="42"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="705.184" y="95.2792" width="150.85" height="42"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="780.609" y="114.279">IAllRegistration</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="780.609" y="129.779">Interface</text>
+    <rect style="fill: #ffffff" x="705.184" y="137.279" width="150.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="705.184" y="137.279" width="150.85" height="8"/>
+    <rect style="fill: #ffffff" x="705.184" y="145.279" width="150.85" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="705.184" y="145.279" width="150.85" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="708.684" y="159.279">+Allinfo(): void</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="708.684" y="175.279">+Selection(): void</text>
   </g>
 </svg>
