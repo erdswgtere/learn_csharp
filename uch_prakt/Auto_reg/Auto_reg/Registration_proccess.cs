@@ -13,7 +13,7 @@ namespace Registration_proccess {
                     Console.WriteLine("Проведите первую регистрацию:");
                     Console.Write("Введите количество клиентов для регистрации: ");
                     int n = int.Parse(Console.ReadLine()!);
-                    if (n < 1) {
+                    if (n < 1){
                         Console.Write("Некорректное количество клиентов!\n");
                         continue;
                     }
