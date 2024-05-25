@@ -3,6 +3,8 @@
 namespace ShootingProbabilityMonteCarlo {
     class Program {
         static void Main(string[] args) {
+            Console.Write("Введите кол-во испытаний: ");
+            int experiments = int.Parse(Console.ReadLine()!);
 
             Normal_gen rnd = new(12);
             double p1 = rnd.Normal(0.5, 0.0833333333333333);
@@ -10,7 +12,6 @@ namespace ShootingProbabilityMonteCarlo {
             double p3 = rnd.Normal(0.5, 0.0833333333333333);
             double p4 = rnd.Normal(0.5, 0.0833333333333333);
 
-            int experiments = 100000;
             int count_0_hits = 0;
             int count_1_hit = 0;
             int count_2_hits = 0;
