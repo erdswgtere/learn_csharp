@@ -1,0 +1,15 @@
+G:\Practice3\Code\Code\bin\Debug\Code.exe.config
+G:\Practice3\Code\Code\bin\Debug\Code.exe
+G:\Practice3\Code\Code\bin\Debug\Code.pdb
+G:\Practice3\Code\Code\obj\Debug\Code.csproj.AssemblyReference.cache
+G:\Practice3\Code\Code\obj\Debug\Code.csproj.SuggestedBindingRedirects.cache
+G:\Practice3\Code\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
+G:\Practice3\Code\Code\obj\Debug\Code.exe
+G:\Practice3\Code\Code\obj\Debug\Code.pdb
+D:\Practice3\Code\Code\obj\Debug\Code.csproj.AssemblyReference.cache
+D:\Practice3\Code\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
+D:\Practice3\Code\Code\obj\Debug\Code.exe
+D:\Practice3\Code\Code\obj\Debug\Code.pdb
+D:\Practice3\Code\Code\bin\Debug\Code.exe.config
+D:\Practice3\Code\Code\bin\Debug\Code.exe
+D:\Practice3\Code\Code\bin\Debug\Code.pdb
