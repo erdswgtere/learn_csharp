@@ -2,15 +2,17 @@
 
 namespace ShootingProbabilityMonteCarlo {
     class Program {
+        const double M = 0.5;
+        const double D = 0.0833;
         static void Main(string[] args) {
             Console.Write("Введите кол-во испытаний: ");
             int experiments = int.Parse(Console.ReadLine()!);
 
             Normal_gen rnd = new(12);
-            double p1 = rnd.Normal(0.5, 0.0833333333333333);
-            double p2 = rnd.Normal(0.5, 0.0833333333333333);
-            double p3 = rnd.Normal(0.5, 0.0833333333333333);
-            double p4 = rnd.Normal(0.5, 0.0833333333333333);
+            double p1 = rnd.Normal(M, D);
+            double p2 = rnd.Normal(M, D);
+            double p3 = rnd.Normal(M, D);
+            double p4 = rnd.Normal(M, D);
 
             int count_0_hits = 0;
             int count_1_hit = 0;
@@ -20,10 +22,10 @@ namespace ShootingProbabilityMonteCarlo {
 
             for (int i = 0; i < experiments; i++) {
                 int hits = 0;
-                if (rnd.Normal(0.5, 0.0833333333333333) < p1) hits++;
-                if (rnd.Normal(0.5, 0.0833333333333333) < p2) hits++;
-                if (rnd.Normal(0.5, 0.0833333333333333) < p3) hits++;
-                if (rnd.Normal(0.5, 0.0833333333333333) < p4) hits++;
+                if (rnd.Normal(M, D) < p1) hits++;
+                if (rnd.Normal(M, D) < p2) hits++;
+                if (rnd.Normal(M, D) < p3) hits++;
+                if (rnd.Normal(M, D) < p4) hits++;
 
                 if (hits == 0) count_0_hits++;
                 if (hits == 1) count_1_hit++;
