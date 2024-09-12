@@ -1,0 +1,15 @@
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\bin\Debug\net8.0\taskrun18.exe
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\bin\Debug\net8.0\taskrun18.deps.json
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\bin\Debug\net8.0\taskrun18.runtimeconfig.json
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\bin\Debug\net8.0\taskrun18.dll
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\bin\Debug\net8.0\taskrun18.pdb
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\obj\Debug\net8.0\taskrun18.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\obj\Debug\net8.0\taskrun18.AssemblyInfoInputs.cache
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\obj\Debug\net8.0\taskrun18.AssemblyInfo.cs
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\obj\Debug\net8.0\taskrun18.csproj.CoreCompileInputs.cache
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\obj\Debug\net8.0\taskrun18.sourcelink.json
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\obj\Debug\net8.0\taskrun18.dll
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\obj\Debug\net8.0\refint\taskrun18.dll
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\obj\Debug\net8.0\taskrun18.pdb
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\obj\Debug\net8.0\taskrun18.genruntimeconfig.cache
+C:\learn_csharp\sys_prog\threads_lab1\taskrun18\taskrun18\obj\Debug\net8.0\ref\taskrun18.dll
