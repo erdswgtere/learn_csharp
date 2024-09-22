@@ -14,18 +14,22 @@
 *****************************************************/
 internal class Program{
     public static void Main(){
-        while(true){
-            string path = "file.txt";
-            FileInfo fileInfo = new FileInfo(path);
-            Console.Write("Введите количество строк в файле: ");
-            int kolString = Convert.ToInt32(Console.ReadLine());
+        while(true){         
             try{
+                string path = "file.txt";
+                FileInfo fileInfo = new FileInfo(path); 
+                int kolString = 0;
+                if(!fileInfo.Exists){
+                    Console.Write("Введите количество строк в файле: ");
+                    kolString = Convert.ToInt32(Console.ReadLine());
+                }
                 var methodComplete = Task.Run(()=>{
                 FindLongString(fileInfo, path, kolString);
                 });
                 methodComplete.Wait();
                 break;
-            }catch(AggregateException ex){
+            }
+            catch(AggregateException ex){
                 Console.WriteLine($"Ошибка! {ex.Message}");
             }
         }
