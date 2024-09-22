@@ -1,0 +1,15 @@
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\bin\Debug\net8.0\taskfile18.exe
+C:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\bin\Debug\net8.0\taskfile18.deps.json
+C:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\bin\Debug\net8.0\taskfile18.runtimeconfig.json
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\bin\Debug\net8.0\taskfile18.dll
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\bin\Debug\net8.0\taskfile18.pdb
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\obj\Debug\net8.0\taskfile18.GeneratedMSBuildEditorConfig.editorconfig
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\obj\Debug\net8.0\taskfile18.AssemblyInfoInputs.cache
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\obj\Debug\net8.0\taskfile18.AssemblyInfo.cs
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\obj\Debug\net8.0\taskfile18.csproj.CoreCompileInputs.cache
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\obj\Debug\net8.0\taskfile18.sourcelink.json
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\obj\Debug\net8.0\taskfile18.dll
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\obj\Debug\net8.0\refint\taskfile18.dll
+c:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\obj\Debug\net8.0\taskfile18.pdb
+C:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\obj\Debug\net8.0\taskfile18.genruntimeconfig.cache
+C:\learn_csharp\test module\pr\pr4\taskfile\taskfile18\obj\Debug\net8.0\ref\taskfile18.dll
